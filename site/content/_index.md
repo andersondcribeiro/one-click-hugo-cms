@@ -1,5 +1,5 @@
 ---
-title: Gerenciamnto de Produto
+title: Gerenciamento de Produto
 subtitle: Focado em resultado
 image: /img/card3.jpg
 blurb:
