@@ -20,7 +20,7 @@
 .w-100 { width: 100%; }
 
 .w-third { width: calc(100% / 3); }
-.w-two-thirds { width: calc(100% / 1.5); }
+.w-two-thirds { width: calc(100% / 1); }
 .w-auto { width: auto; }
 
 @media (--breakpoint-not-small) {
