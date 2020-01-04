@@ -7,7 +7,7 @@ contact_entries:
       (21) 98124-2836 - Atendimento somente em horário comercial das 9h às 18h
       de segunda a sexta-feira.
 ---
-Será um prazer receber o seu contato, ouvir suas dúvidas e idéias para poder te ajudar a construir ou melhorar o seu produto ou serviço. 
+# Será um prazer receber o seu contato, ouvir suas dúvidas e idéias para poder te ajudar a construir ou melhorar o seu produto ou serviço. 
 
 <h3 class="f4 b lh-title mb2">Como…?</h3>
 
