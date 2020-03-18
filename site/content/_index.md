@@ -1,8 +1,6 @@
 ---
-title: >-
-  Estamos ajudando empresas a desenvolverem habilidades de pessoas para
-  gerenciar produtos e serviços digitais. 
-subtitle: '#Scrum #ProductOwner #Product Management #UX #Ui'
+title: 'Desenvolva habilidades para gerenciar produtos e serviços digitais. '
+subtitle: '#Scrum #ProductOwner #Product Management #UX '
 image: /img/card3.jpg
 blurb:
   heading: 'Por que Estúdiooca? '
