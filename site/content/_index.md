@@ -1,5 +1,5 @@
 ---
-title: 'Desenvolva habilidades da sua equipe para gerenciar produtos digitais. '
+title: 'Desenvolva as habilidades da sua equipe para gerenciar produtos digitais. '
 subtitle: '#ScrumProductOwner #ProductManagement #UX '
 image: /img/card3.jpg
 blurb:
