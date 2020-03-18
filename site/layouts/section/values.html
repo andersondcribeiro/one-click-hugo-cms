@@ -1,16 +1,17 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 <div class="mw7 center ph3 pt4">
 
-  {{ range $index, $element := .Params.values }}
-    {{ if modBool $index 2 }}
-      {{ partial "media-block" $element }}
-    {{ else }}
-      {{ partial "media-block-reverse" $element }}
-    {{ end }}
-  {{ end }}
+  
+  
+  <!-- Widget em linha do Calendly - início -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/deejayboxbr" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+<!-- Widget em linha do Calendly - fim -->
+  
+  
+  
 
 </div>
 
