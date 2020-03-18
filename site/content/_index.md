@@ -1,6 +1,6 @@
 ---
-title: 'Desenvolva habilidades para gerenciar produtos e serviços digitais. '
-subtitle: '#Scrum #ProductOwner #Product Management #UX '
+title: 'Desenvolva habilidades para gerenciar produtos digitais. '
+subtitle: '#ScrumProductOwner #ProductManagement #UX '
 image: /img/card3.jpg
 blurb:
   heading: 'Por que Estúdiooca? '
