@@ -1,18 +1,19 @@
 {{ define "main" }}
 
-<div class="mw6 center ph3 pv4">
-<h1 class="f2 lh-title b mb3" "text-align-center">teste</h1>
- 
- <!-- Widget em linha do Calendly - início -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/estudioocarj/15min" style="min-width:500px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Widget em linha do Calendly - fim -->
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
+
+<div class="mw7 center ph3 pt4">
+
+  {{ range $index, $element := .Params.values }}
+    {{ if modBool $index 2 }}
+      {{ partial "media-block" $element }}
+    {{ else }}
+      {{ partial "media-block-reverse" $element }}
+    {{ end }}
+  {{ end }}
+  
+
 </div>
 
-<!--div class="mw7 center ph3 pt4"-->
- 
-
-
-<!--/div-->
-
 {{ end }}
+
