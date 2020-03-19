@@ -1,5 +1,5 @@
 ---
-title: 'TT Desenvolvendo pessoas para gerenciar produtos. '
+title: 'TT blow Desenvolvendo pessoas para gerenciar produtos. '
 subtitle: '#ScrumProductOwner #ProductManagement #UX '
 image: /img/card3.jpg
 blurb:
