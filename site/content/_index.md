@@ -1,20 +1,16 @@
 ---
-title: 'Desenvolvendo pessoas para gerenciar produtos. '
+title: 'TTT Desenvolvendo pessoas para gerenciar produtos. '
 subtitle: '#ScrumProductOwner #ProductManagement #UX '
 image: /img/card3.jpg
 blurb:
-  heading: 'Por que Estúdiooca? '
+  heading: 'RRR Por que Estúdiooca? '
   text: >-
     O ambiente de produtos e serviços digitais é extremamente competitivo e está
     em constante evolução. Ter um produto que consiga se moldar para O
     Estúdiooca propõem uma abordagem centrada nas necessidades do negócio
 intro:
-  heading: Como podemos te ajudar
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: PPPP Como podemos te ajudar
+  text: Vamos testar essa porra pra vê se funfa na edição admin
 products:
   - image: /img/predio.svg
     text: >-
