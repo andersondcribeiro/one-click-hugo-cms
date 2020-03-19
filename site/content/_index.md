@@ -9,7 +9,7 @@ blurb:
     em constante evolução. Ter um produto que consiga se moldar para O
     Estúdiooca propõem uma abordagem centrada nas necessidades do negócio
 intro:
-  heading: What we offer
+  heading: Como podemos te ajudar
   text: >-
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
