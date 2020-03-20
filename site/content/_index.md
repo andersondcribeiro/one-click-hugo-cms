@@ -9,7 +9,7 @@ blurb:
     em constante evolução. Ter um produto que consiga se moldar para O
     Estúdiooca propõem uma abordagem centrada nas necessidades do negócio
 intro:
-  heading: PPPP Como podemos te ajudar
+  heading: Como podemos te ajudar
   text: Vamos testar essa porra pra vê se funfa na edição admin
 products:
   - image: /img/predio.svg
