@@ -10,7 +10,12 @@ blurb:
     Estúdiooca propõem uma abordagem centrada nas necessidades do negócio
 intro:
   heading: Empresas e Pessoas
-  text: Vamos testar essa porra pra vê se funfa na edição admin
+  text: >
+    Ser o CEO da empresa e não ter habilidades técnicas e conhecimento
+    estratégico para desenvolver soluções para o seu produto, pode ser algo
+    extremamente desafiador, ao mesmo tempo que não ter as habilidades exigidas
+    pelas empresas para trabalhar com produtos e serviços digitais pode ser
+    frustrante na busca por uma colocação no mercado. 
 products:
   - image: /img/predio.svg
     text: >-
@@ -24,8 +29,8 @@ products:
     text: >-
       Como você pode obter experiência se os empregadores precisam de
       experiência para contratá-lo? O Estúdiooca fornecesse o conhecimento e as
-      ferramentas necessárias para acelerar seu aprendizado no campo de
-      Gerenciamento de produtos.
+      ferramentas necessárias para acelerar seu aprendizado na área de
+      Gerenciamento de produtos e serviços virtuais.
 values:
   heading: Our values
   text: >-
