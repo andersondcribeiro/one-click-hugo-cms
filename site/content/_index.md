@@ -10,12 +10,7 @@ blurb:
     Estúdiooca propõem uma abordagem centrada nas necessidades do negócio
 intro:
   heading: Empresas e Pessoas
-  text: >
-    Ser o CEO da empresa e não ter habilidades técnicas e conhecimento
-    estratégico para desenvolver soluções para o seu produto, pode ser algo
-    extremamente desafiador, ao mesmo tempo que não ter as habilidades exigidas
-    pelas empresas para trabalhar com produtos e serviços digitais pode ser
-    frustrante na busca por uma colocação no mercado. 
+  text: 'Treinamento sob demanda '
 products:
   - image: /img/predio.svg
     text: >-
