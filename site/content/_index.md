@@ -9,22 +9,23 @@ blurb:
     em constante evolução. Ter um produto que consiga se moldar para O
     Estúdiooca propõem uma abordagem centrada nas necessidades do negócio
 intro:
-  heading: Como podemos te ajudar
+  heading: Empresas e Pessoas
   text: Vamos testar essa porra pra vê se funfa na edição admin
 products:
   - image: /img/predio.svg
     text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/management.svg
+      Empresas com foco em LEAN e Ágil que desejam melhorar as habilidades e o
+      desempenho de suas equipes de produto.
+
+
+      Oferecemos programas de desenvolvimento profissional sob demanda para
+      equipes de gerenciamento de produtos, personalizadas para sua organização.
+  - image: /img/pessoas.svg
     text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+      Como você pode obter experiência se os empregadores precisam de
+      experiência para contratá-lo? O Estúdiooca fornecesse o conhecimento e as
+      ferramentas necessárias para acelerar seu aprendizado no campo de
+      Gerenciamento de produtos.
 values:
   heading: Our values
   text: >-
