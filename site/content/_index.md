@@ -1,5 +1,5 @@
 ---
-title: 'Desenvolvendo pessoas para gerenciar produtos. '
+title: 'Desenvolvendo pessoas para gerenciar produtos e serviços virtuais. '
 subtitle: '#ScrumProductOwner #ProductManagement #UX '
 image: /img/card3.jpg
 blurb:
