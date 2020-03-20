@@ -1,9 +1,9 @@
 ---
-title: 'TT blow Desenvolvendo pessoas para gerenciar produtos. '
+title: 'Desenvolvendo pessoas para gerenciar produtos. '
 subtitle: '#ScrumProductOwner #ProductManagement #UX '
 image: /img/card3.jpg
 blurb:
-  heading: 'RRR Por que Estúdiooca? '
+  heading: 'Por que Estúdiooca? '
   text: >-
     O ambiente de produtos e serviços digitais é extremamente competitivo e está
     em constante evolução. Ter um produto que consiga se moldar para O
