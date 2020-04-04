@@ -5,15 +5,15 @@ image: /img/card3.jpg
 blurb:
   heading: 'Por que Estúdiooca? '
   text: >-
-    Baseado na experiência de trabalhado com startups e empresas de diversos
-    segmentos, percebi que os desafios operacionais e a falta de habilidades
-    técnicas específicas para trabalhar com produtos digitais, distanciam, em
-    muitos casos, o produto ou serviços da missão de entregar valor para os seus
-    clientes. Com essa visão, e messes pesquisando o mercado, resolvi criar o
-    Estúdiooca com a missão de ajudar pessoas e empresas a desenvolverem
+    Com experiência em trabalhos com startups e empresas de diversos ramos,
+    percebi que em vários casos, os desafios operacionais e a falta de
+    habilidades técnicas específicas para trabalhar com produtos digitais,
+    acabam sendo em grande parte, os responsáveis pelo distanciamento do produto
+    da missão de entregar valor para os seus clientes. Com essa visão,
+    experiência e pesquisa de mercado, resolvi criar o Estúdiooca com a missão
+    de ajudar por meio de consultoria, pessoas e empresas a desenvolverem
     habilidades essenciais para gerenciar produtos digitais com o uso de
-    ferramentas adequadas e boas práticas em Ágil, Framework Scrum e experiência
-    do usuário (UX).  
+    ferramentas adequadas e boas práticas em Ágil, Framework Scrum e UX.  
 intro:
   heading: 'Pra quem serve? '
   text: 'Treinamento sob demanda para StartUp, Empresas e Pessoas'
