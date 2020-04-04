@@ -16,7 +16,7 @@ blurb:
     adequadas e boas práticas em Ágil, Framework Scrum e UX.  
 intro:
   heading: 'Para quem? '
-  text: 'Treinamento sob demanda para startups, empresas e pessoas.'
+  text: 'Startups, empresas e pessoas.'
 products:
   - image: /img/predio.svg
     text: >-
