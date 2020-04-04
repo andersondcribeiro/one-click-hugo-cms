@@ -18,18 +18,16 @@ intro:
 products:
   - image: /img/predio.svg
     text: >-
-      Empresas com foco em LEAN e Ágil que desejam melhorar as habilidades e o
-      desempenho de suas equipes de produto.
-
-
-      Oferecemos programas de desenvolvimento profissional sob demanda para
-      equipes de gerenciamento de produtos, personalizadas para sua organização.
+      Bom para StartUps e empresas que precisam melhorar as habilidades técnicas
+      individuais ou de equipes de produto com foco em Ágil e Scrum. O
+      Estúdiooca pode te ajudar. Agende uma entrevista para saber mais sobre
+      treinamento sob demanda. 
   - image: /img/pessoas.svg
     text: >-
-      Como você pode obter experiência se os empregadores precisam de
-      experiência para contratá-lo? O Estúdiooca fornecesse o conhecimento e as
-      ferramentas necessárias para acelerar seu aprendizado na área de
-      Gerenciamento de produtos e serviços virtuais.
+      Bom para pessoas interessadas em aprender ou treinar suas habilidades como
+      Product Manager, Product Owner e UX designers em Ágil e Scrum. O
+      Estúdiooca pode te ajudar a acelerar  seu aprendizado. Agende uma
+      entrevista para saber mais. 
 values:
   heading: Our values
   text: >-
