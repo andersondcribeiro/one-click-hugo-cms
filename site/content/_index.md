@@ -20,15 +20,15 @@ intro:
 products:
   - image: /img/predio.svg
     text: >-
-      Bom para StartUps e empresas que precisam melhorar as habilidades técnicas
+      Bom para startups e empresas que precisam melhorar as habilidades técnicas
       individuais ou de equipes de produto com foco em Ágil e Scrum. O
-      Estúdiooca pode te ajudar. Agende uma entrevista para saber mais sobre
-      treinamento sob demanda. 
+      Estudiooca pode te ajudar. Agende uma entrevista para saber mais sobre
+      treinamentos sob demanda. 
   - image: /img/pessoas.svg
     text: >-
       Bom para pessoas interessadas em aprender ou treinar suas habilidades como
-      Product Manager, Product Owner e UX designers em Ágil e Scrum. O
-      Estúdiooca pode te ajudar a acelerar  seu aprendizado. Agende uma
+      product manager, product owner e UX designers em Ágil e Scrum. O
+      Estudiooca pode te ajudar a acelerar  seu aprendizado. Agende uma
       entrevista para saber mais. 
 values:
   heading: Our values
