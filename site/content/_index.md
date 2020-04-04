@@ -1,13 +1,17 @@
 ---
-title: 'Desenvolvendo pessoas para gerenciar produtos e serviços virtuais. '
-subtitle: '#ScrumProductOwner #ProductManagement #UX '
+title: 'Sucesso nos negócios começa com os clientes  '
+subtitle: 'Agregue valor e garanta a continuidade com as soluções do Estudiooca. '
 image: /img/card3.jpg
 blurb:
   heading: 'Por que Estúdiooca? '
   text: >-
-    O ambiente de produtos e serviços digitais é extremamente competitivo e está
-    em constante evolução. Ter um produto que consiga se moldar para O
-    Estúdiooca propõem uma abordagem centrada nas necessidades do negócio
+    Os desafios operacionais diários, e a falta de habilidades técnicas, acabam
+    distanciando empresas e pessoas de produto, da missão de entregar valor para
+    o cliente. 
+
+    A proposta do Estúdiooca é justamente ajudar pessoas e empresas a
+    desenvolver habilidades técnicas para gerenciar produtos digitais usando as
+    melhores práticas em Ágil, Framework Scrum e experiência do usuário (UX).  
 intro:
   heading: Empresas e Pessoas
   text: 'Treinamento sob demanda '
