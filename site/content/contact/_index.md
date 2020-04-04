@@ -7,4 +7,4 @@ Será um prazer receber seu contato, ouvir suas dúvidas, desafios e idéias par
 
 <h3 class="f4 b lh-title mb2">Como…?</h3>
 
-Preencha o formulário de contato abaixo. Se preferir, pode [agendar uma consulta grátis](https://estudiooca.netlify.com/values/), ou acesse o nosso WorkSpace no [Slack ](http://bit.ly/2SROJF2)
+Preencha o formulário de contato abaixo, ou fale conosco via chat no icone laranja. Se preferir, pode [agendar uma consulta grátis](https://estudiooca.netlify.com/values/), ou acesse o nosso WorkSpace no [Slack ](http://bit.ly/2SROJF2)
