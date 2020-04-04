@@ -3,14 +3,14 @@ title: Ajudando pessoas e empresas a gerenciar produtos digitais
 subtitle: Capacite sua equipe para entregar valor aos seus clientes
 image: /img/card3.jpg
 blurb:
-  heading: 'Por que Estudiooca? '
+  heading: 'Por que Estúdiooca? '
   text: >-
     Após alguns anos trabalhando com startups, empresas e profissionais de
     diversos ramos da área de tecnologia, percebi que, em muitos casos, os
     desafios operacionais diários e a falta de habilidades técnicas específicas
     das equipes para trabalhar com produtos e serviços digitais  acabam
     distanciando o produto da missão de entregar valor para os clientes. A
-    partir dessa visão, resolvi criar o Estudiooca. Sua missão: ajudar, por meio
+    partir dessa visão, resolvi criar o Estúdiooca. Sua missão: ajudar, por meio
     de consultoria, pessoas e empresas a desenvolverem habilidades essenciais
     para gerenciar produtos e serviços digitais com o uso de ferramentas
     adequadas e boas práticas em Ágil, Framework Scrum e UX.  
@@ -22,13 +22,13 @@ products:
     text: >-
       Bom para startups e empresas que precisam melhorar as habilidades técnicas
       individuais ou de equipes de produto com foco em Ágil e Scrum. O
-      Estudiooca pode te ajudar. Agende uma entrevista para saber mais sobre
+      Estúdiooca pode te ajudar. Agende uma entrevista para saber mais sobre
       treinamentos sob demanda. 
   - image: /img/pessoas.svg
     text: >-
       Bom para pessoas interessadas em aprender ou treinar suas habilidades como
       product manager, product owner e UX designers em Ágil e Scrum. O
-      Estudiooca pode te ajudar a acelerar  seu aprendizado. Agende uma
+      Estúdiooca pode te ajudar a acelerar  seu aprendizado. Agende uma
       entrevista para saber mais. 
 values:
   heading: Our values
