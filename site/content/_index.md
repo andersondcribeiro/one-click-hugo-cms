@@ -1,20 +1,23 @@
 ---
-title: 'Sucesso nos negócios começa com os clientes  '
-subtitle: 'Agregue valor e garanta a continuidade com as soluções do Estudiooca. '
+title: Ajudando pessoas e empresas a gerenciar produtos digitais.
+subtitle: 'Capacite sua equipe para entregar valor aos seus clientes. '
 image: /img/card3.jpg
 blurb:
   heading: 'Por que Estúdiooca? '
   text: >-
-    Os desafios operacionais diários, e a falta de habilidades técnicas, acabam
-    distanciando empresas e pessoas de produto, da missão de entregar valor para
-    o cliente. 
-
-    A proposta do Estúdiooca é justamente ajudar pessoas e empresas a
-    desenvolver habilidades técnicas para gerenciar produtos digitais usando as
-    melhores práticas em Ágil, Framework Scrum e experiência do usuário (UX).  
+    Porque, baseado na experiência de trabalhado com StartUps e empresas de
+    diversos seguimentos de mercado, percebi que os desafios operacionais
+    diários, a volatilidade do mercado, e a demanda por habilidades técnicas
+    específicas na área de produtos digitais, acabam distanciando as empresas da
+    missão de entregar produtos que gerem valor real para os seus clientes, o
+    que levam muitas a perder dinheiro ou fechar as portas. A ideias de criar o 
+    Estúdiooca é justamente para ajudar pessoas e empresas a mapear esses
+    problemas e focar nas habilidades necessárias para gerenciar produtos
+    digitais com base nas melhores práticas em Ágil, Framework Scrum e
+    experiência do usuário (UX).  
 intro:
-  heading: Empresas e Pessoas
-  text: 'Treinamento sob demanda '
+  heading: 'Pra quem serve? '
+  text: 'Treinamento sob demanda para StartUp, Empresas e Pessoas'
 products:
   - image: /img/predio.svg
     text: >-
