@@ -7,11 +7,12 @@ description: >-
   Não dá para falar em desenvolver talentos sem antes nos lembrarmos da grande
   vilã dos empreendedores de nosso país: "a burocracia das instituições do
   governo no Brasil." Sim, talvez você já esteja cansado de ouvir falar sobre
-  isso, mas vale a leitura do levantamento feito pela Endeavor
-  (encurtador.com.br/owHK3) sobre o assunto. Aqui, cabe ainda uma questão: será
-  que é só a burocracia do governo a única responsável pelo fracasso de muitos
-  empreendimentos? Para uma resposta, essa questão precisa ser encarada de
-  vários ângulos.
+  isso, mas vale a leitura do levantamento feito pela 
+
+  Endeavor (encurtador.com.br/owHK3) sobre o assunto. Aqui, cabe ainda uma
+  questão: será que é só a burocracia do governo a única responsável pelo
+  fracasso de muitos empreendimentos? Para uma resposta, essa questão precisa
+  ser encarada de vários ângulos.
 ---
 **CEO's e gestores são parte do problema**
 
