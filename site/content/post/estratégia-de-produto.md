@@ -9,7 +9,7 @@ description: >-
   governo no Brasil." Sim, talvez você já esteja cansado de ouvir falar sobre
   isso, mas vale a leitura do levantamento feito pela 
 
-  Endeavor no link: encurtador.com.br/owHK3 sobre o assunto. Aqui, cabe ainda
+  Endeavor no link (encurtador.com.br/owHK3) sobre o assunto. Aqui, cabe ainda
   uma questão: será que é só a burocracia do governo a única responsável pelo
   fracasso de muitos empreendimentos? Para uma resposta, essa questão precisa
   ser encarada de vários ângulos.
