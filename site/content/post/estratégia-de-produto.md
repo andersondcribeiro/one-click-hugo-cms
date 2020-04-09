@@ -1,9 +1,15 @@
 ---
 title: 'Olá, somos o Estúdiooca'
 date: 2020-03-26T14:39:38.901Z
-description: |
+description: >-
 
   Desenvolvendo as capacidades ausentes em empresas com produtos digitais
+
+
+  Não dá para falar em desenvolver talentos sem antes nos lembrarmos da grande
+  vilã dos empreendedores de nosso país: "a burocracia das instituições do
+  governo no Brasil." Sim, talvez você já esteja cansado de ouvir falar sobre
+  isso, mas..
 ---
 Não dá para falar em desenvolver talentos sem antes nos lembrarmos da grande vilã dos empreendedores de nosso país: "a burocracia das instituições do governo no Brasil." Sim, talvez você já esteja cansado de ouvir falar sobre isso, mas vale a leitura do levantamento feito pela [Endeavor](http://info.endeavor.org.br/burocracianobrasil) sobre o assunto. Aqui, cabe ainda uma questão: será que é só a burocracia do governo a única responsável pelo fracasso de muitos empreendimentos? Para uma resposta, essa questão precisa ser encarada de vários ângulos. 
 
