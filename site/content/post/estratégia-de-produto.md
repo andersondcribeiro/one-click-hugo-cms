@@ -1,18 +1,17 @@
 ---
-title: 'Olá, somos o Estúdiooca'
+title: >-
+  Olá, somos o Estúdiooca - Desenvolvendo as capacidades ausentes em empresas
+  com produtos digitais 
 date: 2020-03-26T14:39:38.901Z
 description: >-
-
-  Desenvolvendo as capacidades ausentes em empresas com produtos digitais
-
-
   Não dá para falar em desenvolver talentos sem antes nos lembrarmos da grande
   vilã dos empreendedores de nosso país: "a burocracia das instituições do
   governo no Brasil." Sim, talvez você já esteja cansado de ouvir falar sobre
-  isso, mas..
+  isso, mas vale a leitura do levantamento feito pela Endeavor sobre o assunto.
+  Aqui, cabe ainda uma questão: será que é só a burocracia do governo a única
+  responsável pelo fracasso de muitos empreendimentos? Para uma resposta, essa
+  questão precisa ser encarada de vários ângulos.
 ---
-Não dá para falar em desenvolver talentos sem antes nos lembrarmos da grande vilã dos empreendedores de nosso país: "a burocracia das instituições do governo no Brasil." Sim, talvez você já esteja cansado de ouvir falar sobre isso, mas vale a leitura do levantamento feito pela [Endeavor](http://info.endeavor.org.br/burocracianobrasil) sobre o assunto. Aqui, cabe ainda uma questão: será que é só a burocracia do governo a única responsável pelo fracasso de muitos empreendimentos? Para uma resposta, essa questão precisa ser encarada de vários ângulos. 
-
 **CEO's e gestores são parte do problema**
 
 Pode ser difícil para muitos CEO's e gestores reconhecerem, mas eles vêm contribuindo para esse problema. Muitas empresas se tornam burocráticas a medida que crescem. Instalam-se hierarquias verticais e cultura tóxica. Mesmo as startups que defendem modelos disruptivos, no fim, cometem os mesmos erros, como abordado pelo Eric Ries em seu livro “[O Estilo Startup.](https://www.amazon.com.br/Estilo-Startup-Eric-Ries/dp/8544107338)"
