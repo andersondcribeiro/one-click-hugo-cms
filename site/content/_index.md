@@ -1,6 +1,6 @@
 ---
-title: Ajudando pessoas e empresas a gerenciar produtos digitais
-subtitle: Capacite sua equipe para entregar valor aos seus clientes
+title: Consultoria em ágil e scrum para gestão de produtos digitais
+subtitle: Organize times e desenvolva habilidades técnicas essências
 image: /img/card3.jpg
 blurb:
   heading: 'Por que Estúdiooca? '
