@@ -2,6 +2,10 @@
   <div class="ph3 mw7 center">
     <h2 class="f2 b lh-title mb2">{{.intro.heading}}</h2>
     <p class="mb4 mw6">{{.intro.text}}</p>
+    
+    <div class="tc">
+      <a href="/values" class="btn raise">Agende um Consulta Grátis!</a>
+    </div>
 
     <div class="flex-ns mhn2-ns mb3">
       {{ range .products }}
@@ -9,14 +13,8 @@
         <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
         <p>{{.text}}</p>
       </div>
-      {{ end }}
-      
-      <div class="tc">
-      <a href="/values" class="btn raise">Agende um Consulta Grátis!</a>
+      {{ end }}   
     </div>
-      
-    </div>
-
     <div class="tc">
       <a href="/values" class="btn raise">Saiba mais</a>
     </div>
