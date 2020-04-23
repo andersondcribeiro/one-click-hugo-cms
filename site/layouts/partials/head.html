@@ -1,24 +1,9 @@
 <head>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149460038-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-149460038-1');
-  gtag('config', 'UA-149460038-1', { 'optimize_id': 'GTM-5987GBN'});	
-</script>
 	
-<!-- meta name -->		
-<meta name="google-site-verification" content="gIl4gmxMxeXjVt17SBOp8I4nMUTjbSpiEyeSeL6B2-4" />
-<meta name="description" content="Gestão ágil com scrum, consultória em gestão ágil no rio de janeiro, treinamento em ágil e scrum rio de janeiro"/>
-<meta name="robots" content="follow, index"/>
-<link rel="canonical" href="https://estudiooca.netlify.app" />
-<meta name="author" content="estúdiooca"/>
-<meta name="keywords" content="Gestão ágil com Scrum, Consultoria transformação ágil, product owner, gestão de produto, product manager, gerente de produto, Treinamentos Scrum, conceitos de ágil e scrum, O que é um product owner
-,Product owner, gestão ágil com scrum, o papel do product owner, o que é ser ux, ux designer, treinamento em scrum rio de janeiro">	
-
+<!-- Google Analytics -->	
+	
+  {{ template "_internal/google_analytics.html" . }}
+	
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
   {{ $stylesheet := .Site.Data.webpack.main }}
@@ -26,7 +11,7 @@
     <link href="{{ relURL . }}" rel="stylesheet">
   {{ end }}
 
-	<meta charset="utf-8">
+        <meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
@@ -51,6 +36,3 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
 </head>
-
-
-
