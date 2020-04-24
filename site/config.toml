@@ -5,8 +5,12 @@ title = "Homepage"
 googleAnalytics = "UA-149460038-1"
 
 [params]
-  description = "Consultoria em ágil e scrum para gestão de produtos digitais"
+  description = "Text about my cool site"
   images = ["site-feature-image.jpg"]
+  
+  description = "Text about this post"
+  images = ["post-cover.png"]
+  title = "Post title"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
