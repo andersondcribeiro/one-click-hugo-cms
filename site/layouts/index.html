@@ -1,3 +1,5 @@
+{{ template "_internal/google_analytics.html" . }}
+
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
