@@ -4,6 +4,10 @@ languageLang = "en"
 title = "Homepage"
 googleAnalytics = "UA-149460038-1"
 
+[params]
+  description = "Consultoria em ágil e scrum para gestão de produtos digitais"
+  images = ["site-feature-image.jpg"]
+
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
