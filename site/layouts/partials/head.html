@@ -3,6 +3,10 @@
 <!-- Google Analytics -->	
 	
  {{ template "_internal/google_analytics.html" . }}
+	
+	<!-- Twitter -->
+	
+{{ template "_internal/twitter_cards.html" . }}
 		
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
@@ -11,8 +15,8 @@
     <link href="{{ relURL . }}" rel="stylesheet">
   {{ end }}
 
-        <meta charset="utf-8">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
 
@@ -27,8 +31,8 @@
 	<meta name="theme-color" content="#fff">
 
 	<!-- Open Graph -->
-	<meta property="og:type" content="consultória.Treinamento">
-	<meta property="og:title" content="Estúdiooca | Consultória em gestão de produto com ágil e scrum">
+	<meta property="og:type" content="Consultoria.Consultoria">
+	<meta property="og:title" content="Estúdiooca | Consultoria em ágil e scrum para gestão de produtos digitais">
 	<meta property="og:url" content="https://estudiooca.netlify.app/">
 	<meta property="og:image" content="/img/og-image.jpg">
 
