@@ -1,7 +1,7 @@
 ---
 title: 'Os 12 princípios do Manifesto Ágil '
 date: 2020-04-26T11:17:13.408Z
-description: 'Estes são os 12 princípios do Manifesto Ágil '
+description: Estes são os 12 princípios do Manifesto Ágil - Teste
 image: /img/david-travis-wc6mj0krzgw-unsplash.jpg
 ---
 1 - Nossa maior prioridade é satisfazer o cliente através da entrega contínua e adiantada de software com valor agregado.
