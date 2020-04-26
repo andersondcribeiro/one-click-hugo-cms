@@ -10,7 +10,10 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
-
+  <meta name="robots" content="follow, index"/>
+  <link rel="canonical" href="https://estudiooca.netlify.app" />
+	
+	
 	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 
 	<!-- Favicons -->
@@ -22,10 +25,10 @@
 	<meta name="theme-color" content="#fff">
 
 	<!-- Open Graph -->
-	<!--meta property="og:type" content="Consultoria.Consultoria">
+	<meta property="og:type" content="Consultoria.Consultoria">
 	<meta property="og:title" content="Estúdiooca | Consultoria em ágil e scrum para gestão de produtos digitais">
 	<meta property="og:url" content="https://estudiooca.netlify.app/">
-	<meta property="og:image" content="/img/og-image.jpg"-->
+	<meta property="og:image" content="/img/og-image.jpg">
 	
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
