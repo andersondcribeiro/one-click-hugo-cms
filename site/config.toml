@@ -4,12 +4,12 @@ languageLang = "en"
 title = "Homepage"
 googleAnalytics = "UA-149460038-1"
 
-[params]
+
   description = "Text about my cool site"
   images = ["site-feature-image.jpg"]
   title = "My cool site"
 
-[taxonomies]
+
   series = "series" 
   audio = []
 date = "2006-01-02"
