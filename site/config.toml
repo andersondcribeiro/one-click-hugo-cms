@@ -2,12 +2,12 @@ baseurl = "/"
 languageCode = "pt-br"
 languageLang = "pt"
 googleAnalytics = "UA-149460038-1"
-
+title = "Homepage"
 
 [params]
-  description = "Text about this post"
+  description = "Texto sobre esse post"
   images = ["post-cover.png"]
-  title = "Post title"
+  title = "Título do post"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
