@@ -4,11 +4,19 @@
 	
  {{ template "_internal/google_analytics.html" . }}
 	
+		
+<!-- meta name -->		
+<meta name="google-site-verification" content="gIl4gmxMxeXjVt17SBOp8I4nMUTjbSpiEyeSeL6B2-4" />
+<meta name="description" content="Gestão ágil com scrum, consultória em gestão ágil no rio de janeiro, treinamento em ágil e scrum rio de janeiro"/>
+<meta name="robots" content="follow, index"/>
+<link rel="canonical" href="https://estudiooca.netlify.app" />
+<meta name="author" content="estúdiooca"/>
+<meta name="keywords" content="Gestão ágil com Scrum, Consultoria transformação ágil, product owner, gestão de produto, product manager, gerente de produto, Treinamentos Scrum, conceitos de ágil e scrum, O que é um product owner
+,Product owner, gestão ágil com scrum, o papel do product owner, o que é ser ux, ux designer, treinamento em scrum rio de janeiro">	
 	
 <!-- Twitter -->
 	
  {{ template "_internal/twitter_cards.html" . }}	
-	
 	
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
@@ -21,11 +29,9 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
-  <meta name="robots" content="follow, index"/>
-  <link rel="canonical" href="https://estudiooca.netlify.app" />
+ 
 	
-	
-	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 
 	<!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
@@ -37,8 +43,8 @@
 
 	<!-- Open Graph -->
 	<meta property="og:type" content="Consultoria.Consultoria">
-	<!--meta property="og:title" content="Estúdiooca | Consultoria em ágil e scrum para gestão de produtos digitais"-->
-	<meta property="og:url" content="http://www.estudiooca.com.br/">
+	<meta property="og:title" content="Estúdiooca | Consultoria em ágil e scrum para gestão de produtos digitais">
+	<meta property="og:url" content="https://estudiooca.netlify.app/">
 	<meta property="og:image" content="/img/og-image.jpg">
 	
   {{ if .IsHome }}
