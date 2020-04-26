@@ -7,10 +7,6 @@
     <link href="{{ relURL . }}" rel="stylesheet">
   {{ end }}
 	
-	
- <!-- blog Use the Open Graph Template -->
- {{ template "_internal/opengraph.html" . }}
-
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -39,6 +35,13 @@
 	
 <!-- Google Analytics -->	
 	
- {{ template "_internal/google_analytics.html" . }}	
+ {{ template "_internal/google_analytics.html" . }}
+	
+ <!-- blog Use the Open Graph Template -->
+ {{ template "_internal/opengraph.html" . }}
+	
+<!-- twitter cards -->
+	
+{{ template "_internal/twitter_cards.html" . }}	
 	
 </head>
