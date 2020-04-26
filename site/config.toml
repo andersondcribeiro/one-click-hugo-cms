@@ -10,8 +10,7 @@ googleAnalytics = "UA-149460038-1"
   title = "My cool site"
 
 [taxonomies]
-  series = "series"
-  
+  series = "series" 
   audio = []
 date = "2006-01-02"
 description = "Text about this post"
