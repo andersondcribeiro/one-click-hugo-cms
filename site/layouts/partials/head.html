@@ -1,8 +1,4 @@
 <head>
-	
-<!-- Google Analytics -->	
-	
- {{ template "_internal/google_analytics.html" . }}
 		
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
@@ -27,15 +23,19 @@
 	<meta name="theme-color" content="#fff">
 
 	<!-- Open Graph -->
-	<!--meta property="og:type" content="Consultoria.Consultoria">
+	<meta property="og:type" content="Consultoria.Consultoria">
 	<meta property="og:title" content="Estúdiooca | Consultoria em ágil e scrum para gestão de produtos digitais">
 	<meta property="og:url" content="https://estudiooca.netlify.app/">
 	<meta property="og:url" content="https://estudiooca.netlify.app/post">
-	<meta property="og:image" content="/img/og-image.jpg"--->
+	<meta property="og:image" content="/img/og-image.jpg">
 	
-<meta property="og:image" content="https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/sites/27802/images/kQx2kCWERpiRmmrmU5Ay_Curso-de-product-management-pm3.jpg">
-<meta name="twitter:image" content="https://kajabi-storefronts-production.global.ssl.fastly.net/kajabi-storefronts-production/sites/27802/images/kQx2kCWERpiRmmrmU5Ay_Curso-de-product-management-pm3.jpg">
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
+	
+	
+<!-- Google Analytics -->	
+	
+ {{ template "_internal/google_analytics.html" . }}	
+	
 </head>
