@@ -4,6 +4,15 @@ languageLang = "en"
 title = "Homepage"
 googleAnalytics = "UA-149460038-1"
 
+[params]
+  description = "Text about my cool site"
+  images = ["site-feature-image.jpg"]
+  
+[params]  
+description = "Text about this post"
+images = ["post-cover.png"]
+title = "Post title"
+
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
