@@ -1,7 +1,6 @@
 baseurl = "/"
 languageCode = "pt-br"
 languageLang = "pt"
-title = "Homepage"
 googleAnalytics = "UA-149460038-1"
 
 
