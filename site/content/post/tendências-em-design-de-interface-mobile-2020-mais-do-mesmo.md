@@ -13,7 +13,7 @@ description: >-
 
   Selecionei abaixo algumas dessas tendências que acredito que poderão continuar
   a crescer em 2020:
-image: /img/0.gif
+image: /img/post.png
 ---
 **\#01 Adoção de mais Apps ao Modo escuro/DarkMode**
 
