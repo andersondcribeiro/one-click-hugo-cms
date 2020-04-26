@@ -8,7 +8,6 @@ googleAnalytics = "UA-149460038-1"
   description = "Text about my cool site"
   images = ["site-feature-image.jpg"]
   
-[params]  
 description = "Text about this post"
 images = ["post-cover.png"]
 title = "Post title"
