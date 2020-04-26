@@ -4,21 +4,13 @@ languageLang = "en"
 title = "Homepage"
 googleAnalytics = "UA-149460038-1"
 
-
+[params]
   description = "Text about my cool site"
   images = ["site-feature-image.jpg"]
   title = "My cool site"
 
-
-  series = "series" 
-  audio = []
-date = "2006-01-02"
-description = "Text about this post"
-images = ["post-cover.png"]
-series = []
-tags = []
-title = "Post title"
-videos = []
+[taxonomies]
+  series = "series 
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
