@@ -5,9 +5,6 @@ title = "Homepage"
 googleAnalytics = "UA-149460038-1"
 
 [params]
-  description = "Text about my cool site"
-  images = ["site-feature-image.jpg"]
-  
  description = "Text about this post"
  images = ["post-cover.png"]
  title = "Post title"
