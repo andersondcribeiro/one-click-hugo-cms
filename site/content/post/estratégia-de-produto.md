@@ -1,5 +1,7 @@
 ---
-title: 'Desenvolvendo as habilidades ausentes em empresas com produtos digitais '
+title: >-
+  Desenvolvendo as habilidades ausentes em empresas com produtos digitais -
+  teste
 date: 2020-03-26T14:39:38.901Z
 description: >-
   Não dá para falar em desenvolver talentos sem antes nos lembrarmos da grande
