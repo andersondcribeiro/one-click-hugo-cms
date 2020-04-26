@@ -8,9 +8,7 @@ googleAnalytics = "UA-149460038-1"
   description = "Text about my cool site"
   images = ["site-feature-image.jpg"]
   title = "My cool site"
-  
-  #twitter
-  
+    
   [params]
   description = "Text about my cool site"
   images = ["site-feature-image.jpg"]
