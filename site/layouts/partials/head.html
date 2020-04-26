@@ -3,7 +3,6 @@
 <!-- Google Analytics -->	
 	
  {{ template "_internal/google_analytics.html" . }}
-
 		
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
@@ -30,9 +29,9 @@
 	<!-- Open Graph -->
 	<meta property="og:type" content="Consultoria.Consultoria">
 	<meta property="og:title" content="Estúdiooca | Consultoria em ágil e scrum para gestão de produtos digitais">
-	<!--meta property="og:url" content="https://estudiooca.netlify.app/"-->
-	<!--meta property="og:url" content="https://estudiooca.netlify.app/post"-->
-	<!--meta property="og:image" content="/img/og-image.jpg"-->
+	<meta property="og:url" content="https://estudiooca.netlify.app/">
+	<meta property="og:url" content="https://estudiooca.netlify.app/post">
+	<meta property="og:image" content="/img/og-image.jpg">
 
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
