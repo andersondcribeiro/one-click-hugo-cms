@@ -9,6 +9,11 @@ googleAnalytics = "UA-149460038-1"
   images = ["/img/og-image.jpg"]
   title = "Estúdiooca"
 
+
+description = "Text about this post"
+images = ["post-cover.png"]
+title = "Post title"
+
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
