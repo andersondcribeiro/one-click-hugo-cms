@@ -9,7 +9,7 @@ googleAnalytics = "UA-149460038-1"
   images = ["/img/og-image.jpg"]
   title = "Estúdiooca"
 
-
+[params]
 description = "Text about this post"
 images = ["post-cover.png"]
 title = "Post title"
