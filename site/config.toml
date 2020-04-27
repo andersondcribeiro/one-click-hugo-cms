@@ -9,11 +9,10 @@ googleAnalytics = "UA-149460038-1"
   images = ["site-feature-image.jpg"]
   title = "My cool site"
 
-[taxonomies]
-  series = "series"
-
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS"]
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+
 
