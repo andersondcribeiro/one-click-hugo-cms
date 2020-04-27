@@ -1,7 +1,9 @@
 ---
-title: Os 12 Princípios do Manifesto Ágil
+title: 'Princípios ágeis  '
 date: 2020-04-26T11:49:48.439Z
-description: 'Conheça os 12 princípios:'
+description: >-
+  Conheça os princípios por trás do manifesto ágil e entenda a sua importância
+  no desenvolvimento de produtos digitais
 image: /img/david-travis-wc6mj0krzgw-unsplash.jpg
 ---
 1 - Nossa maior prioridade é satisfazer o cliente através da entrega contínua e adiantada de software com valor agregado.
@@ -27,3 +29,5 @@ image: /img/david-travis-wc6mj0krzgw-unsplash.jpg
 11 - As melhores arquiteturas, requisitos e designs emergem de times auto-organizáveis.
 
 12 - Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e então refina e ajusta seu comportamento de acordo.
+
+**Traduzindo do site:** <https://agilemanifesto.org/principles.html>
