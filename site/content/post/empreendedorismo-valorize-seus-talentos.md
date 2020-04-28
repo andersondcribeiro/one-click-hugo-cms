@@ -10,7 +10,7 @@ description: >-
   que é só a burocracia do governo a única responsável pelo fracasso de muitos
   empreendimentos? Para uma resposta, essa questão precisa ser encarada de
   vários ângulos.
-image: /img/ian-schneider-tammbr4okv4-unsplash.jpg
+image: /img/post-cover.png
 ---
 # Gestão tóxica
 
