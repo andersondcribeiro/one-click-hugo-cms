@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "https://estudiooca.netlify.app/"
 languageCode = "pt-br"
 languageLang = "pt"
-title = "Homepage"
+title = "Estúdiooca"
 googleAnalytics = "UA-149460038-1"
 
 [params]
