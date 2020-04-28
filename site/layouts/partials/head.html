@@ -35,13 +35,19 @@
 	<meta property="og:type" content="consultória.Treinamento">
 	<meta property="og:title" content="Estúdiooca | Consultória em gestão de produto com ágil e scrum">
 	<meta property="og:url" content="https://estudiooca.netlify.app/">
-	<meta property="og:image" content="/img/og-image.jpg">
 	
 	
 	<!-- Google Analytics -->	
 	
         {{ template "_internal/google_analytics.html" . }}
 		 
+         <!-- Open Graph -->
+		
+       {{ template "_internal/opengraph.html" . }}
+	
+	<!-- Twitter -->
+	
+ {{ template "_internal/twitter_cards.html" . }}
 
 	
   {{ if .IsHome }}
