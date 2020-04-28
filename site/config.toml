@@ -2,15 +2,11 @@ baseurl = "https://estudiooca.netlify.app/"
 languageCode = "pt-br"
 languageLang = "pt"
 title = "Estúdiooca"
-canonifyurls = true
 googleAnalytics = "UA-149460038-1"
 
 [params]
-    title = "Estúdiooca"
     description = "Consultoria em ágil e scrum para gestão de produtos digitais."
-    description = "Estúdiooca, consultoria personal website"
     keywords = "consultoria em métodos ágeis, métodos ágeis, agilidade, agilista, product manager, product owner, gerente de produto, scrum, gestão de produtos, transformação digital, usabilidade, ux design, ux designer ,ui, times ágeis web design, front-end, fullstak devoper, métricas, big data, papeis do product manager, papeis do product owner, métricas de produto, estrategia de produto, sprint planning, plajeamento de sprint, backlog, backlog de produto, roadmap de produto, lean, startup"
-    description = "Estúdiooca, consultoria personal website"
     images = ["/img/og-image.jpg"]
 
 # RSS, categories and tags disabled for an easy start
