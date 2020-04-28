@@ -6,7 +6,7 @@ description: >-
   vilã dos empreendedores de nosso país: "a burocracia das instituições do
   governo no Brasil." Sim, talvez você já esteja cansado de ouvir falar sobre
   isso, mas vale a leitura do levantamento feito pela Endeavor no link
-  (encurtador.com.br/owHK3) sobre o assunto. Aqui, cabe ainda uma questão: será
+  (encurtador.com.br/nFMR8) sobre o assunto. Aqui, cabe ainda uma questão: será
   que é só a burocracia do governo a única responsável pelo fracasso de muitos
   empreendimentos? Para uma resposta, essa questão precisa ser encarada de
   vários ângulos.
@@ -16,15 +16,13 @@ image: /img/post-cover.png
 
 Pode ser difícil para muitos CEO’s e gestores reconhecerem, mas eles vêm contribuindo para esse problema. Muitas empresas se tornam burocráticas a medida que crescem. Instalam-se hierarquias verticais e cultura tóxica. Mesmo as startups que defendem modelos disruptivos, no fim, cometem os mesmos erros, como abordado pelo Eric Ries em seu livro “O Estilo Startup.“
 
-#  Fuga de talentos
+# Fuga de talentos
 
-Má gestão, cultura tóxica e falta de visão para identificar e desenvolver talentos é um dos motivos mais apontados como causa da fuga de muitos colaboradores. Como destacado pela autora Karen Higginbottom para a Forbes: “Pessoas não deixam empregos, deixam seus chefes.”
+Má gestão, cultura tóxica e falta de visão para identificar e desenvolver talentos é um dos motivos mais apontados como causa da fuga de muitos colaboradores. Como destacado pela autora [Karen Higginbottom](https://muckrack.com/karen-higginbottom/articles) para a Forbes: “Pessoas não deixam empregos, deixam seus chefes.”
 
 # Usuários vão abandonar o seu produto
 
 Problemas de usabilidade, excesso de funcionalidades inúteis e performance, estão entre os principais motivos que levam os usuários a abandonarem um produto digital, segundo um levantamento feito pela empresa de marketing digital Rock Content . Isso pode ser um indicativo tanto da falta de habilidade técnica das equipes para trabalhar com produtos digitais como dos gestores presos a cronogramas apertados e metas absurdas que parecem mais preocupadas agradar a stakerholders internos, mas que na mais do que se perguntarem se o que está sendo criado de fato servirá para o usuário final.
-
-
 
 # Identifique e valorizes os seus talentos
 
