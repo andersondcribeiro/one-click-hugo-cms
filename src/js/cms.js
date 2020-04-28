@@ -9,7 +9,6 @@ import PostPreview from "./cms-preview-templates/post";
 import ProductsPreview from "./cms-preview-templates/products";
 import ValuesPreview from "./cms-preview-templates/values";
 import ContactPreview from "./cms-preview-templates/contact";
-import AgendaPreview from "./cms-preview-templates/agenda";
 
 
 CMS.registerPreviewStyle(styles, { raw: true });
@@ -18,6 +17,5 @@ CMS.registerPreviewTemplate("post", PostPreview);
 CMS.registerPreviewTemplate("products", ProductsPreview);
 CMS.registerPreviewTemplate("values", ValuesPreview);
 CMS.registerPreviewTemplate("contact", ContactPreview);
-CMS.registerPreviewTemplate("agenda", AgendaPreview);
 
 CMS.init();
