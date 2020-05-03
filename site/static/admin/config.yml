@@ -74,8 +74,8 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Logo, name: logo, widget: image}
           - {label: Body, name: body, widget: markdown}
-          - label: Contato Entries
-            name: contato_entries
+          - label: Contact Entries
+            name: contact_entries
             widgets: list
             fields:
               - labels: Heading
