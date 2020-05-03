@@ -79,4 +79,26 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
-              - {label: Image, name: imageUrl, widget: image}                          
+              - {label: Image, name: imageUrl, widget: image}   
+              
+              
+                - file: "site/content/contato/_index.md"
+        label: "Página de Contato"
+        name: "contato"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Logo, name: logo, widget: image}
+          - {label: Body, name: body, widget: markdown}
+          - label: Contact Entries
+            name: contact_entries
+            widget: list
+            fields:
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Text
+                name: text
+                widget: text
+              
+              
+              
