@@ -1,5 +1,5 @@
 ---
-title: "Agendar"
+title: "Consulta Grátis"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
