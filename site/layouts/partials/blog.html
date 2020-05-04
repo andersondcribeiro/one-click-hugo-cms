@@ -1,8 +1,8 @@
 
-<div class="bg-grey-1 pv4">
+<div class="bg-off-white pv4">
 	<div class="ph3 mw7 center">
 
-		<h2 class="f2 b lh-title mb3">Blog Estúdiooca</h2>
+		<h2 class="f2 b lh-title mb3">Latest stories</h2>
 
 		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
 			{{ range first 4 (where .Data.Pages "Type" "post") }}
@@ -13,7 +13,7 @@
 		</div>
 
 		<div class="tc">
-			<a href="/blog" class="btn raise">Ver todas</a>
+			<a href="/post" class="btn raise">Read more</a>
 		</div>
 
 	</div>
