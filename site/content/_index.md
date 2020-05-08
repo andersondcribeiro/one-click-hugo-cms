@@ -1,5 +1,5 @@
 ---
-title: Consultoria em ágil e scrum para gestão de produtos digitais
+title: Consultoria em ágil e scrum para gestão de produtos digitaisss
 subtitle: 'Faça parte da transformação digital. '
 image: /img/card3.jpg
 blurb:
