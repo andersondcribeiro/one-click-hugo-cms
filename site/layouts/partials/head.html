@@ -1,6 +1,6 @@
 <head>	
 			
-  <title>Consutória em Ágil | Estúdiooca</title>
+  <title>{{ .Title }} | {{ $.Site.Title }}</title>
 
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
