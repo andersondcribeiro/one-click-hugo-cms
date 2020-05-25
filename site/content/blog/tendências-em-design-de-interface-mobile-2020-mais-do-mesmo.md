@@ -2,7 +2,7 @@
 title: Tendências em design de interface mobile 2020- Mais do mesmo?
 date: 2020-01-18T12:02:01.877Z
 description: >-
-  Nos últimos anos, os guidlines de design do Google (Material Design) e Apple
+  Nos últimos anos, os guidelines de design do Google (Material Design) e Apple
   (Human Interface Guidelines) parecem não ter tido muitas alterações, e mesmo
   com a chegada do notch/entalhe, novos tamanhos de tela e modelos dobráveis,
   ainda vimos muito dos padrões anteriores nesses guides bem como algumas
