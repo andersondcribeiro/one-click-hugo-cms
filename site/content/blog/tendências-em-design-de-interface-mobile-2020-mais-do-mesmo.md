@@ -69,7 +69,7 @@ Esse padrão presente nas interfaces desde as primeiras versões do iOS e Androi
 
 Embora a presença do flat ainda seja muito forte com o Flat UI 2.0 ou deep Flat, em 2020 parece que voltaremos a rever o Skeumorfismo, que agora ressignificado promete valorizar as sombras o 3D mais profundidade etc.
 
-Exemplo de que o Sckeuomorfismo está vivo:
+Exemplo de que o Skeuomorfismo está vivo:
 
 ![](/img/0-7.png)
 
