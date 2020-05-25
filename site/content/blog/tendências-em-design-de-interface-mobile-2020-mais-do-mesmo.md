@@ -2,30 +2,26 @@
 title: Tendências em design de interface mobile 2020- Mais do mesmo?
 date: 2020-01-18T12:02:01.877Z
 description: >-
-  Nos últimos anos os guidlines de design do Google e Apple parecem não ter
-  sofrido muitas alterações, e mesmo com a chegada do dark mode, e do famigerado
-  notch, parece que muitas dessas tendências anteriores e mudanças de hardware e
-  software, ainda estão acontecendo como: complexion reduction, gradients, deep
-  flat, big bold fonts, entre outras que ainda estão por ai presentes nas
-  interface dos apps que usamos no dia a dia, e parece que permanecerão
-  dominantes durante 2020.
-
-
-  Selecionei abaixo algumas dessas tendências que acredito que poderão continuar
-  a crescer em 2020:
+  Nos últimos anos, os guidlines de design do Google (Material Design) e Apple
+  (Human Interface Guidelines) parecem não ter tido muitas alterações, e mesmo
+  com a chegada do notch/entalhe, novos tamanhos de tela e modelos dobráveis,
+  ainda vimos muito dos padrões anteriores nesses guides bem como algumas
+  tendências que nem chegaram a ser adotadas. Creio que isso seja uma questão de
+  tempo, e por isso, selecionei algumas dessas tendências com potencial de
+  evoluir em 2020.
 image: /img/post.png
 ---
-# **\#01 Adoção de mais Apps ao dark mode**
+# **\#01 Dark Mode**
 
 Embora para alguns o dark mode possa parecer algo exclusivo do iPhone com o lançamento do iOS13, os usuários de Android e Windows também podem optar por ativar essa função em seus devices, porem ao que tudo indica foi com essa atualização para iOS 13 que Apple parece ter dado o pontapé definitivo para impulsionar de vez a inclusão do dark mode em outros apps e sistemas, como o Windows10, [Slack](https://slack.com/intl/pt-br/help/articles/360019434914-Usar-o-modo-escuro-no-Slack), Google Chrome ([JustBalck](https://chrome.google.com/webstore/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab))
 
-Mas é preciso estar atento a regra "Não use preto puro em um fundo branco puro" ao dar suporte ao modo escuro. A maioria dos designers sabem disso (basta verificar a maioria dos sites ou aplicativos e você perceberá que o preto geralmente é cinza escuro), mas por algum motivo muitos desenvolvedores ignoram a regra, e por esse motivo ainda tem muito app usando preto puro como pano de fundo, o que não só fere as boas práticas de aplicação, mas também pode causar desconforto visual em alguns usuários.
+Mas é preciso estar atento a regra "Não use preto puro em um fundo branco puro" ao dar suporte ao modo escuro. A maioria dos designers sabem disso (basta verificar a maioria dos sites ou aplicativos e você perceberá que o preto geralmente é cinza escuro), mas por algum motivo muitos desenvolvedores ignoram a regra, e por isso ainda se vê muitos apps por ai usando preto puro como pano de fundo, o que não só fere as boas práticas de aplicação, mas também pode causar desconforto visual em alguns usuários.
 
 ![](/img/0.png)
 
-# **\#02. Interface do usuário e Smartphones Plus**
+# **\#02. Smartphone Plus**
 
-Os modelos Plus já se tornaram um padrão de mercado. Segundo o app Missbeez, em outubro de 2018 o número de acessos a plataforma via modelos Plus como, os iPhones XR e Max Plus foram de 16,3%, e em dezembro de 2019 esse número saltou para 41%. Do ponto de vista de design e usabilidade, essa esticada na tela dos aparelhos possibilitou aos desenvolvedores e designer dobrarem o conteúdo de seus aplicativos sem criar confusão, e assim muitos puderam aproveitar melhor esses espaços para incluir: atalhos, histórias, carrosséis de fotos, barras de guias etc.
+Os modelos Plus já se tornaram um padrão de mercado. Segundo o app Missbeez, em outubro de 2018 o número de acessos a plataforma via iPhones XR e Max Plus saltaram de 16,3%, e em dezembro de 2019 para 41%. Do ponto de vista de usabilidade, essa esticada na tela dos aparelhos possibilitou aos desenvolvedores e designer dobrarem o conteúdo de seus aplicativos sem criar confusão, e assim muitos puderam aproveitar melhor esses espaços para incluir: atalhos, histórias, carrosséis de fotos, barras de guias etc.
 
 Um exemplo disso é a evolução da interface do app Yelp:
 
@@ -39,25 +35,25 @@ O último aplicativo a passar por uma repaginação nesse sentido foi o Spark, q
 
 ![](/img/0-2.png)
 
-# **\#04 Elementos de navegação além do Topo**
+# **\#04 Navegação além do topo**
 
-Voltando a tendência dos modelos Plus, tem sido cada vez mais comum colocar itens relacionados a navegação do app em outras áreas de elementos da interface do usuário que antes ficavam na parte superior da tela, mas agora contam com outras alternativas de navegação como:
+Com a tendência dos modelos smartphones plus, tem sido cada vez mais comum colocar itens relacionados a navegação do app em outras áreas. Elementos da interface do usuário que antes só podiam ficar na parte superior da tela,  passaram a ter mais opções como:
 
-\-Posicionar o menu de hambúrguer no canto inferior esquerdo
+\- Posicionar o menu de hambúrguer no canto inferior esquerdo
 
-\-Menu lateral na barra de guias
+\- Menu lateral na barra de guias
 
-\-Action sheet na parte inferior da tela
+\- Action sheet na parte inferior da tela
 
-\-Cartões swipe-up ativados com um gesto 
+\- Cartões swipe-up ativados com um gesto 
 
 ![](/img/0-3.png)
 
 ![](/img/0-4.png)
 
-# **\#05 Os stories estão se tornando um padrão de design**
+# **\#05 Stories como padrão de design**
 
-Os stories ficaram tão populares nas mídias sociais que foi apenas uma questão de tempo até vermos outros aplicativos e sites adotarem esse conceito de interface do usuário no estilo de histórias em novas formas criativas.
+Os stories ficaram tão populares nas mídias sociais, que foi apenas uma questão de tempo até vermos outros aplicativos e sites adotarem esse conceito de interface do usuário no estilo de histórias em novas formas criativas.
 
 Alguns exemplos do zest e Shazam: 
 
@@ -67,11 +63,11 @@ Outro exemplo mais genéricos
 
 ![](/img/0-6.png)
 
-# **\#06 A volta do Sckeuomorfismo** 
+# **\#06 A volta do Skeumorfismo** 
 
-Presente nas interfaces desde as primeiras versões do iOS e Android, começou a cair em desuso entre 2012/2013 com o retorno triunfal do flat design. 
+Esse padrão presente nas interfaces desde as primeiras versões do iOS e Android chegou a ser depreciado entre 2012/2013 com o retorno triunfal do flat design. 
 
-Embora a presença do flat ainda seja muito forte com o Flat UI 2.0, ou: Deep Flat nas interfaces de usuário, em 2020, parece que voltaremos a rever essa do tendência ao Sckeuomorfismo, que valoriza mais as sombras, trás mais 3D, profundidade etc.
+Embora a presença do flat ainda seja muito forte com o Flat UI 2.0 ou deep Flat, em 2020 parece que voltaremos a rever o Skeumorfismo, que agora ressignificado promete valorizar as sombras o 3D mais profundidade etc.
 
 Exemplo de que o Sckeuomorfismo está vivo:
 
@@ -79,4 +75,4 @@ Exemplo de que o Sckeuomorfismo está vivo:
 
 Então é isso, 2020 chegou e espero que surjam novos desafios criativos além dos dispositivos móveis que possibilitem cruzar novas fronteiras da inovação, traga usabilidade incrível e ótimas experiências.
 
-Até a próxima postagem.
+E você,  concorda com essas novas tendências em design? Deixe seu comentário e não esqueça de compartilhar.
