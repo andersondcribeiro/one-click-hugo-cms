@@ -1,6 +1,6 @@
 ---
-title: Consultoria em ágil e scrum para gestão de produtos digitaisss
-subtitle: 'Faça parte da transformação digital. '
+title: Consultoria em gestão ágil
+subtitle: 'Desenvolva habilidades para gerenciar produtos digitais. '
 image: /img/card3.jpg
 blurb:
   heading: 'Por que Estúdiooca? '
