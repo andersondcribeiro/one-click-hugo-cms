@@ -4,7 +4,7 @@ languageLang = "pt"
 title = "Estúdiooca"
 googleAnalytics = "UA-165213725-1"
 [params]
-description =l "Consutória em gestão ágil para empresas e pessoas interessadas em gerenciar produtos digitais como métodos ágeis ou desenvolver habilidades como product manager, product owner e ux designer."
+description = "Consutória em gestão ágil para empresas e pessoas interessadas em gerenciar produtos digitais como métodos ágeis ou desenvolver habilidades como product manager, product owner e ux designer."
 images = ["/img/og-image.jpg"]
 title = "Estúdiooca"
 
