@@ -1,6 +1,6 @@
 ---
 title: 'Empreendedorismo, valorize seus talentos! '
-date: 2020-04-28T01:13:18.764Z
+date: 2020-06-07T01:13:18.764Z
 description: >-
   Não dá para falar em desenvolver talentos sem antes nos lembrarmos da grande
   vilã dos empreendedores de nosso país: "a burocracia das instituições do
