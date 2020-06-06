@@ -2,7 +2,7 @@
 title: 'Empreendedorismo, valorize seus talentos! '
 date: 2020-06-07T01:13:18.764Z
 description: >-
-  Teste Não dá para falar em desenvolver talentos sem antes nos lembrarmos da
+  Testes Não dá para falar em desenvolver talentos sem antes nos lembrarmos da
   grande vilã dos empreendedores de nosso país: "a burocracia das instituições
   do governo no Brasil." Sim, talvez você já esteja cansado de ouvir falar sobre
   isso, mas vale a leitura do levantamento feito pela Endeavor no link
