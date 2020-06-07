@@ -16,8 +16,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       
-    - name: "alexa"
-      label: "Alexa"
+    - name: "blog2"
+      label: "Blog2"
       folder: "site/content/alexa"
       create: "true"
         - {label: "Title", name: "title", widget: "string"}
