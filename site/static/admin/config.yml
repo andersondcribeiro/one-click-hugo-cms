@@ -18,6 +18,11 @@ collections: # A list of collections the CMS should be able to edit
       
   - name: "alexa"
     label: "Alexa"
+    folder: "site/content/alexa
+    create: true
+    fields:
+      - {label: "Title", name: "Title", widget: "string"}
+      - {label: "Body", name: "body", widget: "mardkdown"}
   
   
   - name: "pages"
