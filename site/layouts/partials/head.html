@@ -47,5 +47,27 @@
   {{ end }}
 	
 	
+<!-- inicio do experimento com optimizely -->
+	
+	attributes := map[string]interface{}{
+	// Optional example attributes
+	"location": "california",
+	"isAdmin":  true,
+}
+userContext := entities.UserContext{
+	ID:         userID,
+	Attributes: attributes,
+}
+
+isEnabled, err := optimizelyClientInstance.IsFeatureEnabled("botao_agendar_laranja", userContext)
+
+if isEnabled {
+
+	// Implement your feature
+}
+	
+<!-- fim do experimento -->
+	
+	
 	
 </head>
