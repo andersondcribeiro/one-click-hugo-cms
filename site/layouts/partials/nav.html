@@ -1,4 +1,33 @@
+	<head>
 
+	 a.button8{
+	 display:inline-block;
+	 padding:0.2em 1.45em;
+	 margin:0.1em;
+	 border:0.15em solid #CCCCCC;
+	 box-sizing: border-box;
+	 text-decoration:none;
+	 font-family:'Segoe UI','Roboto',sans-serif;
+	 font-weight:400;
+	 color:#000000;
+	 background-color:#CCCCCC;
+	 text-align:center;
+	 position:relative;
+	}
+	a.button8:hover{
+	 border-color:#7a7a7a;
+	}
+	a.button8:active{
+	 background-color:#999999;
+	}
+	@media all and (max-width:30em){
+	 a.button8{
+	  display:block;
+	  margin:0.2em auto;
+	 }
+	}
+
+      <head/>
 <nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
 
 	<!-- Logo -->
@@ -10,7 +39,10 @@
 	<ul class="flex b grey-3">
 		<li><a href="/" class="pa3 no-underline db">Home</a></li>
 		<li><a href="/contato" class="pa3 no-underline db">Contato</a></li>
-		<a href="/agendar" class="pa3 no-underline db" style="color:#ff4400;">Consulta Grátis</a>
+		<a href="/agendar" class="button8">Consulta Grátis</a>
+		<!--a href="/agendar" class="pa3 no-underline db" style="color:#ff4400;">Consulta Grátis</a-->
+		
+		
                 <li><a href="/blog" class="pa3 no-underline db">Blog</a></li>
 	
 	</ul>
