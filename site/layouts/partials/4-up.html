@@ -1,45 +1,13 @@
-
-<head>
-<style type="text/css">	
-	 a.button3{
-	 display:inline-block;
-	 padding:0.3em 1.2em;
-	 margin: 12px 0.1em 0.1em 0; 
-	 border-radius:13px;
-	 box-sizing: border-box;
-	 text-decoration:none;
-	 font-family:'Roboto',sans-serif;
-	  
-	 color:#FFFFFF;
-	 background-color:#1d9ad3;
-	 text-align:center;
-	 transition: all 0.2s;
-	}
-	a.button3:hover{
-	 background-color:#4095c6;
-	}
-	@media all and (max-width:30em){
-	 a.button3{
-	  display:block;
-	  margin:0.2em auto;
-	 }
-	}		
-</style>		   	
-<head/>
+	
 <div class="bg-off-white pv4">
 	<div class="ph3 mw7 center">
 		<h2 class="f2 b lh-title mb2">{{.heading}}</h2>
 		<p class="mb4 mw6">{{.description}}</p>
-		
-		<a href="/agendar" class="button3">Agendar Consulta</a>
-
-
 		<div class="flex-ns flex-wrap mhn2-ns mb3">
 			{{ range .blurbs }}
 				<div class="ph2-ns w-50-ns mb4">
 					<img src="{{ .image }}" alt="" class="center db mb3" style="width: 240px">
 					<p>{{ .text }}</p>
-		
 				</div>
 
 			{{ end }}
