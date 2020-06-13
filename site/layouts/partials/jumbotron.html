@@ -1,3 +1,32 @@
+
+<head>
+<style type="text/css">	
+	 a.button3{
+	 display:inline-block;
+	 padding:0.3em 1.2em;
+	 margin: 12px 0.1em 0.1em 0; 
+	 border-radius:13px;
+	 box-sizing: border-box;
+	 text-decoration:none;
+	 font-family:'Roboto',sans-serif;
+	  
+	 color:#FFFFFF;
+	 background-color:#1d9ad3;
+	 text-align:center;
+	 transition: all 0.2s;
+	}
+	a.button3:hover{
+	 background-color:#4095c6;
+	}
+	@media all and (max-width:30em){
+	 a.button3{
+	  display:block;
+	  margin:0.2em auto;
+	 }
+	}		
+</style>		   	
+<head/>
+
 <div class="pv5 pv6-l ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
   <div class="mw7 center ph3">
     <div class="db mb3">
@@ -11,6 +40,8 @@
         <p class="b f4 di lh-title mb3 white mw6 bg-primary">
           {{.subtitle}}
         </p>
+        <a href="/agendar" class="button3">Agendar Consulta</a>
+
         {{ end }}
         
       </div>
@@ -18,5 +49,3 @@
      
   </div>
 </div>
-
-
