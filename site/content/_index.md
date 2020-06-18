@@ -3,33 +3,31 @@ title: Consultoria em gestão ágil
 subtitle: 'Desenvolva habilidades para gerenciar produtos digitais. '
 image: /img/card3.jpg
 blurb:
-  heading: 'Por que Estúdiooca? '
-  text: >-
-    Após alguns anos trabalhando com startups, empresas e profissionais de
-    diversos ramos da área de tecnologia, percebi que, em muitos casos, os
-    desafios operacionais diários e a falta de habilidades técnicas específicas
-    das equipes para trabalhar com produtos e serviços digitais  acabam
-    distanciando o produto da missão de entregar valor para os clientes. A
-    partir dessa visão, resolvi criar o Estúdiooca. Sua missão: ajudar, por meio
-    de consultoria, pessoas e empresas a desenvolverem habilidades essenciais
-    para gerenciar produtos e serviços digitais com o uso de ferramentas
-    adequadas e boas práticas em Ágil, Framework Scrum e UX.  
+  heading: O que fazemos?
+  text: >
+    Prestamos consultoria para empresas que desejam trabalhar com metodologias
+    ágeis para gerenciar produto digitais e oferecemos treinamentos em UX design
+    e gerenciamento de produto (Product Management) para grupos e/ou indivíduos
+    que precisam melhorar suas habilidades ou que desejam aprender a gerenciar
+    produtos seguindo princípios e valores Ágil e Scrum.  
 intro:
   heading: 'Para quem? '
   text: Empresas e pessoas.
 products:
   - image: /img/predio.svg
     text: >-
-      Bom para startups e empresas que precisam melhorar as habilidades técnicas
-      individuais ou de equipes de produto com foco em Ágil e Scrum. O
-      Estúdiooca pode te ajudar. Agende uma entrevista para saber mais sobre
-      treinamentos sob demanda. 
+      Empresas tradicionais e startups, aprenda a escalar um time ágil e a
+      identificar e desenvolver talentos para trabalhar com o seu produto
+      mantendo o foco nas necessidades do cliente, proposta de valor e visão
+      estratégica da empresa. Saiba mais, agende sua primeira consulta gratuita
+      e receba uma proposta  alinhada às suas necessidades.
   - image: /img/pessoas.svg
     text: >-
-      Bom para pessoas interessadas em aprender ou treinar suas habilidades como
-      product manager, product owner e UX designers em Ágil e Scrum. O
-      Estúdiooca pode te ajudar a acelerar  seu aprendizado. Agende uma
-      entrevista para saber mais. 
+      Grupos ou indivíduos,  aprenda a desenvolver produtos utilizando técnicas
+      e ferramentas de gestão de produtos que auxiliam na criação e refinamento
+      de backlog, roadmaps de produto, testes de usabilidade, métricas de
+      produto  Bom para product owners, product managers, UX designers ou
+      qualquer pessoa que deseja trabalhar na área de produto.
 values:
   heading: Our values
   text: >-
