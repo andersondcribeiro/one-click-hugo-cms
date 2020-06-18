@@ -23,11 +23,11 @@ products:
       e receba uma proposta  alinhada às suas necessidades.
   - image: /img/pessoas.svg
     text: >-
-      Grupos ou indivíduos,  aprenda a desenvolver produtos utilizando técnicas
-      e ferramentas de gestão de produtos que auxiliam na criação e refinamento
-      de backlog, roadmaps de produto, testes de usabilidade, métricas de
-      produto  Bom para product owners, product managers, UX designers ou
-      qualquer pessoa que deseja trabalhar na área de produto.
+      Grupos ou indivíduos,  aprenda a gerenciar produtos digitais utilizando
+      técnicas e ferramentas de gestão que auxiliam na criação e refinamento de
+      backlog, roadmaps de produto, testes de usabilidade e métricas de produto.
+      Bom para product owners, product managers, UX designers ou qualquer pessoa
+      que deseja trabalhar na área de produto.
 values:
   heading: Our values
   text: >-
