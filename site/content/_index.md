@@ -6,10 +6,10 @@ blurb:
   heading: O que fazemos?
   text: >
     Prestamos consultoria para empresas que desejam trabalhar com metodologias
-    ágeis para gerenciar produto digitais e oferecemos treinamentos em UX design
+    ágeis para gerenciar produto digitais. Oferecemos treinamentos em UX design
     e gerenciamento de produto (Product Management) para grupos e/ou indivíduos
     que precisam melhorar suas habilidades ou que desejam aprender a gerenciar
-    produtos seguindo princípios e valores Ágil e Scrum.  
+    produtos seguindo princípios e valores Ágeis e Scrum.  
 intro:
   heading: 'Para quem? '
   text: Empresas e pessoas.
@@ -17,7 +17,7 @@ products:
   - image: /img/predio.svg
     text: >-
       Empresas tradicionais e startups, aprenda a escalar um time ágil e a
-      identificar e desenvolver talentos para trabalhar com o seu produto
+      identificar e desenvolver talentos para trabalhar com o seu produto,
       mantendo o foco nas necessidades do cliente, proposta de valor e visão
       estratégica da empresa. Saiba mais, agende sua primeira consulta gratuita
       e receba uma proposta  alinhada às suas necessidades.
