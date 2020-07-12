@@ -6,7 +6,11 @@ description: >-
   visto com cautela?
 image: /img/post2.jpg
 ---
-Escalar um time multidisciplinar _scrum_ já é um tarefa árdua e, na medida que um produto cresce, é quase inevitável ter de escalar novos times. Para ajudar nesse processo um dos criadores do _scrum_, Ken Schwaber escreveu o [Nexus](https://www.scrum.org/resources/nexus-guide), e o definiu como um _framework_ para minimizar as dependências entre equipes e os problemas de integração. E seguindo talvez essa mesma linha de pensamento do Nexus, temos  o famigerado modelo de _squads_ do Spotify, que será o tema deste post inspirado pela postagem do ex-funcionário da empresa de _streaming_, [Jeremiah Lee](https://www.jeremiahlee.com/posts/failed-squad-goals/) que gerou certa polêmica, trazendo até o [Marting Cagam](https://svpg.com/spotify-vs-fitbit/) para debater sobre  o tema. 
+Escalar um time multidisciplinar _scrum_ já é um tarefa árdua e, na medida que um produto cresce, é quase inevitável ter de escalar novos times. 
+
+Para ajudar nesse processo um dos criadores do _scrum_, Ken Schwaber escreveu o [Nexus](https://www.scrum.org/resources/nexus-guide), e o definiu como um _framework_ para minimizar as dependências entre equipes e os problemas de integração. 
+
+Seguindo essa mesma lógica do Nexus, temos  o famigerado modelo de _squads_ do Spotify, que será o tema deste post inspirado pela postagem do ex-funcionário da empresa de _streaming_, [Jeremiah Lee](https://www.jeremiahlee.com/posts/failed-squad-goals/) que gerou certa polêmica, trazendo até o [Marting Cagam](https://svpg.com/spotify-vs-fitbit/) para debater sobre  o tema. 
 
 ## Se o Spotify não usa “o modelo Spotify”, você também não deveria usar.
 
