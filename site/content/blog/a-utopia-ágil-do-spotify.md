@@ -6,9 +6,7 @@ description: >-
   visto com cautela?
 image: /img/post2.jpg
 ---
-Escalar um time multidisciplinar _scrum_ já é um tarefa árdua e, na medida que um produto cresce, é quase inevitável ter de escalar novos times. 
-
-Mas, porque o _framework scrum_ é cheio de lacunas - como por exemplo: a dificuldade de integração entre diferentes times que deveriam trabalhar em um mesmo épico (como descrito no [Scrum Guide](http://www.scrumguides.org/)) um dos criadores do _scrum_, Ken Schwaber escreveu o [Nexus](https://www.scrum.org/resources/nexus-guide), e o definiu como um _framework_ para minimizar as dependências entre equipes e os problemas de integração. Seguindo essa mesma linha de pensamento do Nexus, temos  o famigerado modelo de _squads_ do Spotify, que será o tema deste post inspirado pela postagem do ex-funcionário da empresa de _streaming_, [Jeremiah Lee](https://www.jeremiahlee.com/posts/failed-squad-goals/) que gerou certa polêmica, trazendo até o [Marting Cagam](https://svpg.com/spotify-vs-fitbit/) para debater sobre  o tema. 
+Escalar um time multidisciplinar _scrum_ já é um tarefa árdua e, na medida que um produto cresce, é quase inevitável ter de escalar novos times. Para ajudar nesse processo um dos criadores do _scrum_, Ken Schwaber escreveu o [Nexus](https://www.scrum.org/resources/nexus-guide), e o definiu como um _framework_ para minimizar as dependências entre equipes e os problemas de integração. E seguindo talvez essa mesma linha de pensamento do Nexus, temos  o famigerado modelo de _squads_ do Spotify, que será o tema deste post inspirado pela postagem do ex-funcionário da empresa de _streaming_, [Jeremiah Lee](https://www.jeremiahlee.com/posts/failed-squad-goals/) que gerou certa polêmica, trazendo até o [Marting Cagam](https://svpg.com/spotify-vs-fitbit/) para debater sobre  o tema. 
 
 ## Se o Spotify não usa “o modelo Spotify”, você também não deveria usar.
 
@@ -21,13 +19,17 @@ Mas, porque o _framework scrum_ é cheio de lacunas - como por exemplo: a dificu
 
 Para trazer mais credibilidade aos pontos abordados em sua postagem, Lee resgatou textos do coautor do modelo Spotify e de alguns _agile coachs_ que trabalharam para empresa de _streaming_ entre os anos 2011 e 2017, aqui destacados: 
 
-> “Mesmo na época em que escrevemos, não estávamos fazendo isso [usando o modelo de _squads_]. Era parte ambição, parte aproximação. As pessoas realmente têm lutado para copiar algo que realmente não existia.”
+> “Mesmo na época em que escrevemos, não estávamos fazendo isso \[usando o modelo de squads]. Era parte ambição, parte aproximação. As pessoas realmente têm lutado para copiar algo que realmente não existia.”
 >
-> — Joakim Sundén, Agile Coach no Spotify 2011-2017
->
-> “Me preocupa quando as pessoas olham para o que fazemos e acham que é uma estrutura que podem apenas copiar e implementar… Estamos realmente nos esforçando para enfatizar que também temos problemas. Não é como se tudo fosse ‘brilhante, que tudo funciona bem e que todos os nossos _squads_ são superincríveis’.”
+> \    — Joakim Sundén, Agile Coach no Spotify 2011-2017
 
- — Anders Ivarsson, co-autor do whitepaper do Spotify
+
+
+> “Me preocupa quando as pessoas olham para o que fazemos e acham que é uma estrutura que podem apenas copiar e implementar… Estamos realmente nos esforçando para enfatizar que também temos problemas. Não é como se tudo fosse ‘brilhante, que tudo funciona bem e que todos os nossos squads são superincríveis’.”
+>
+> — Anders Ivarsson, co-autor do whitepaper do Spotify
+
+
 
 ## O que não funcionou
 
