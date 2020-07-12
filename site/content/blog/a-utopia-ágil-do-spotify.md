@@ -21,11 +21,17 @@ Para trazer mais credibilidade aos pontos abordados em sua postagem, Lee resgato
 
 > “Mesmo na época em que escrevemos, não estávamos fazendo isso \[usando o modelo de squads]. Era parte ambição, parte aproximação. As pessoas realmente têm lutado para copiar algo que realmente não existia.”
 >
-> \    — Joakim Sundén, Agile Coach no Spotify 2011-2017
+> \
+>
+>
+> — Joakim Sundén, Agile Coach no Spotify 2011-2017
 
 
 
 > “Me preocupa quando as pessoas olham para o que fazemos e acham que é uma estrutura que podem apenas copiar e implementar… Estamos realmente nos esforçando para enfatizar que também temos problemas. Não é como se tudo fosse ‘brilhante, que tudo funciona bem e que todos os nossos squads são superincríveis’.”
+>
+> \
+>
 >
 > — Anders Ivarsson, co-autor do whitepaper do Spotify
 
