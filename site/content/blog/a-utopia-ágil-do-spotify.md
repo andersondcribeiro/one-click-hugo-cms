@@ -6,7 +6,7 @@ description: >-
   visto com cautela?
 image: /img/post2.jpg
 ---
-Escalar um time multidisciplinar _scrum_ já é um tarefa árdua e, na medida que um produto cresce, é quase inevitável ter de escalar novos times. 
+Escalar um time multidisciplinar _scrum_ já é uma tarefa árdua e, à medida que um produto cresce, é quase inevitável ter de escalar novos times. 
 
 Para ajudar nesse processo um dos criadores do _scrum_, Ken Schwaber escreveu o [Nexus](https://www.scrum.org/resources/nexus-guide), e o definiu como um _framework_ para minimizar as dependências entre equipes e os problemas de integração. 
 
