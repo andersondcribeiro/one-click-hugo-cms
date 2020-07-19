@@ -63,7 +63,7 @@ Outro exemplo mais genéricos
 
 ![](/img/0-6.png)
 
-# **\#06 A volta do Skeumorfismo** 
+# **\#06 A volta do Skeumorfismo**
 
 Esse padrão presente nas interfaces desde as primeiras versões do iOS e Android chegou a ser depreciado entre 2012/2013 com o retorno triunfal do flat design. 
 
@@ -75,4 +75,4 @@ Exemplo de que o Skeuomorfismo está vivo:
 
 Então é isso, 2020 chegou e espero que surjam novos desafios criativos além dos dispositivos móveis que possibilitem cruzar novas fronteiras da inovação, traga usabilidade incrível e ótimas experiências.
 
-E você,  concorda com essas novas tendências em design? Deixe seu comentário e não esqueça de compartilhar.
+E você,  concorda com essas novas tendências em design?
