@@ -1,16 +1,15 @@
 ---
-title: Consultoria em gestão ágil
+title: Mentoria em gestão ágil
 subtitle: 'Desenvolva habilidades para gerenciar produtos digitais. '
 image: /img/card3.jpg
 blurb:
   heading: O que fazemos?
-  text: >
-    Prestamos consultoria para empresas que desejam trabalhar com metodologias
-    ágeis para gerenciar produto digitais. Oferecemos treinamentos em UX design
-    e em gerenciamento de produto (Product Management) para grupos e/ou
-    indivíduos que precisam melhorar suas habilidades ou que desejam aprender a
-    gerenciar produtos seguindo princípios e valores ágeis e o framework
-    scrum.  
+  text: >+
+    Oferecemos mentoria focada no desenvolvimento de habilidades técnicas
+    essenciais para gerenciamento de produtos digitais. 
+
+
+
 intro:
   heading: 'Para quem? '
   text: Empresas e pessoas.
