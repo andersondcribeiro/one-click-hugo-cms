@@ -36,6 +36,8 @@ O iubenda é uma ferramenta com a mesma proposta da Privacy Tool da Mavem, mas c
 
 No vídeo abaixo, há um tutorial de como criar a documentação de adequação para um site utilizando a versão gratuita do iubenda: 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aEVPEc_dvDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Auditando o site 
 
 Depois de criar a documentação de conformidade e configurá-la no seu site, é possível submeter todas as páginas a uma auditoria com outra ferramenta gratuita, o Cookie Metrix. Com ele, é possível verificar, por exemplo, se o banner que solicita o consentimento do visitante está ativo, a presença dos cookies de terceiros, declarados ou não. Um ponto negativo é que, assim como o iubenda, ele também não traz informação sobre cobertura à LGPD.  
