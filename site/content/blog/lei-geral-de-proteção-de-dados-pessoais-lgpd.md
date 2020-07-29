@@ -30,7 +30,7 @@ A empresa privacy tools oferece teste grátis da sua plataforma de gerenciamento
 
 ![Lei Geral e Proteção de Dados Pessoais](/img/captura-de-tela-2020-07-28-às-12.13.19.png "iubenda")
 
-O iubenda é uma ferramenta com a mesma proposta da Privacy Tool da Mavem, mas com uma observação: não há informação sobre a LGPD brasileira - mas pode ser uma questão de tempo. Outro fato é que, na versão gratuita, só é possível selecionar e declarar até quatro serviços que coletam dados. A outra se refere ao controle de permissões do usuário sobre cookies, mas, para isso, é preciso contratar a versão pro.  
+O iubenda é uma outra opção de ferramenta de privacy tool, mas com uma observação: não há informação sobre a LGPD brasileira - mas pode ser uma questão de tempo. Outro fato é que, na versão gratuita, só é possível selecionar e declarar até quatro serviços que coletam dados. A outra se refere ao controle de permissões do usuário sobre cookies, mas, para isso, é preciso contratar a versão pro.  
 
 No vídeo abaixo, há um tutorial de como criar a documentação de adequação para um site utilizando a versão gratuita do iubenda: 
 
