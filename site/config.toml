@@ -8,11 +8,15 @@ description = "Mentoria em gestão ágil. Aprenda a gerenciar produtos digitais 
 images = ["/img/og-image.jpg"]
 title = "Estúdiooca"
 
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+#disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 
 
