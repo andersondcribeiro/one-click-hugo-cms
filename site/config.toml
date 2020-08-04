@@ -13,8 +13,7 @@ title = "Estúdiooca"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 #disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
-[taxonomies]
-  author = "authors"
+
 
 
 
