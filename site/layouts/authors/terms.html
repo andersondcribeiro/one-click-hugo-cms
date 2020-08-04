@@ -1,6 +1,7 @@
-<h1>Authors</h1>
-<ul>
-{{ range .Data.Pages }}
-  <li><a href="{{ .Permalink }}">{{ .Params.name }}</a></li>
+{{ define "main" }}
+  <h1>Authors</h1>
+  {{ range .Data.Pages }}
+    {{ partial "author-figure" . }}
+  {{ end }}
 {{ end }}
-</ul>
+
