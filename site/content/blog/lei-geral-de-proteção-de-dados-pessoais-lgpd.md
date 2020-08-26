@@ -10,7 +10,11 @@ Se você é proprietário de site ou aplicativo e precisa coletar informações 
 
 # O que é LGPD?
 
-LGPD é a Lei Geral de Proteção a Dados Pessoais ([Lei Nº 13.709, de 14 de agosto de 2018](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)), sancionada pelo ex-presidente da República Michel Temer. Ela prevê também a criação do órgão de fiscalização [ANPD](https://www12.senado.leg.br/noticias/materias/2019/07/09/lei-que-cria-autoridade-nacional-de-protecao-de-dados-e-sancionada-com-vetos). A Lei estava prevista para entrar em vigor em agosto de 2020, mas, segundo informação do site [Senado Notícias](https://www12.senado.leg.br/noticias/materias/2020/06/29/prorrogada-mp-que-regulamenta-beneficios-e-adia-lei-de-protecao-de-dados), fonte vinculada ao Senado Federal, foi adiada para 2021.  
+LGPD é a Lei Geral de Proteção a Dados Pessoais ([Lei Nº 13.709, de 14 de agosto de 2018](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm)), sancionada pelo ex-presidente da República Michel Temer. Ela prevê também a criação do órgão de fiscalização [ANPD](https://www12.senado.leg.br/noticias/materias/2019/07/09/lei-que-cria-autoridade-nacional-de-protecao-de-dados-e-sancionada-com-vetos). `A Lei estava prevista para entrar em vigor em agosto de 2020, mas, segundo informação do site `[`Senado Notícias`](https://www12.senado.leg.br/noticias/materias/2020/06/29/prorrogada-mp-que-regulamenta-beneficios-e-adia-lei-de-protecao-de-dados)`, fonte vinculada ao Senado Federal, foi adiada para 2021.   `
+
+## **Atualização sobre nova data de vigência da LGPD** 
+
+[Segundo noticiado pelo portal UOL,  o Senado Federal aprovou em 26/08/2020 a vigência imediata da LGPD. Com a decisão do Senado, a lei passa a valer já a partir da quinta-feira 27/08/2020.](https://www.uol.com.br/tilt/noticias/redacao/2020/08/26/senado-aprova-mp-959-mas-remove-artigo-4-e-lgpd-entra-em-vigencia-amanha.htm)
 
 Cabe deixar claro que o foco aqui é falar de ferramentas de gerenciamento de privacidade ou [_"Privacy tools"_](https://privacytech.com.br/destaque/o-crescimento-das-privacytech,350630.jhtml) __que podem ser úteis em relação a pontos específicos da LGPD como: [a documentação sobre termo e/ou política de privacidade](https://politicaprivacidade.com/) e o banner de consentimento de cookie. Para se saber mais sobre aspectos jurídicos da LGPD, vale acessar o [site](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm) oficial ou consultar um [jurista](https://pt.wikipedia.org/wiki/Jurista).
 
