@@ -24,25 +24,19 @@ Ao longo dos anos, foram necessárias diversas alterações nos algoritmos dos m
 
 ## **Screaming Frog - SEO Spider**
 
-
-
 ![Ferramentas de SEO e Análise Competitiva de Perfis no Instagram e TikTok](/img/captura-de-tela-2020-08-18-às-15.30.58.png "Screaming Frog SEO Spider")
 
 O [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) é uma ferramenta que permite fazer uma verdadeira auditoria em páginas web. Com ele é possível rastrear todas a páginas do site e  identificar problemas comuns de SEO. A ferramenta é paga, mas oferece uma versão gratuita capaz de rastrear até 500 URLs e ainda gerar o Site [MAP](https://www.xml-sitemaps.com/) em XLM, o que pode ser útil na etapa de indexação das páginas do site ao [Google Search Console](https://search.google.com/search-console/about).
 
  <https://www.screamingfrog.co.uk/seo-spider>
 
-
-
-## Meta SEO Inspector 
+## Meta SEO Inspector
 
 ![Ferramentas de SEO e Análise Competitiva de Perfis no Instagram e TikTok](/img/captura-de-tela-2020-08-18-às-15.36.00.png "Meta SEO Inspector")
 
 O Meta SEO Inspector é uma extensão para o Google Chrome que funciona como uma espécie de “handoff” para webmaster ou donos de sites, assim como a função de Web Insector nativa do Chrome. Com ele, é possível fazer análises rápidas nos metadados das páginas à medida que novos conteúdo vão sendo inseridos, evitando, assim, um possível retrabalho quando o site for submetido a auditoria.
 
 <https://www.omiod.com/meta-seo-inspector/>
-
-
 
 ## SERPSTAT
 
@@ -52,19 +46,13 @@ Essa ferramenta oferece uma série de funcionalidades que servem tanto para prof
 
 <https://serpstat.com>
 
+# Ferramentas SEO para planejamento de campanhas
 
-
-# Ferramentas SEO para planejamento de campanhas 
-
-## Google Keyword Planner (ADS) 
-
-
+## Google Keyword Planner (ADS)
 
 ![Ferramentas SEO para planejamento de campanhas](/img/capagoogle.png "Google Keyword Planner (ADS) ")
 
 O Keyword Planner é parte de uma das funcionalidades da plataforma de anúncios [Google Ads](https://ads.google.com/intl/pt-BR_br/getstarted/?subid=br-pt-ha-awa-bk-c-cor!o3~CjwKCAjw1ej5BRBhEiwAfHyh1EcXz2yVBF79uGw1dhANTLnPZnGCFk2eNc1xyNFxysE9idxpg-wY6hoCbasQAvD_BwE~84865307024~kwd-94527731~6500862360~428255123406&gclid=CjwKCAjw1ej5BRBhEiwAfHyh1EcXz2yVBF79uGw1dhANTLnPZnGCFk2eNc1xyNFxysE9idxpg-wY6hoCbasQAvD_BwE) e serve para ajudar a planejar campanhas com o uso de palavras-chave com potencial de alcançar melhores posições nas buscas e atrair leads qualificados. Para utilizá-lo, basta ter uma conta do Gmail vinculada ao seu web site. 
-
-
 
 # Facebook Ads Library
 
@@ -74,13 +62,9 @@ O Facebook Ads Library é uma ferramenta criada para dar transparência aos anú
 
 <https://www.facebook.com/ads/library>
 
-
-
 # Outras ferramentas que podem ser úteis
 
 ## Ninjalitics
-
-
 
 ![Ferramentas SEO para planejamento de campanhas](/img/capninja.png "Ninjaliticis")
 
@@ -96,11 +80,7 @@ Ferramenta SEO tudo em um
 
 <https://lsigraph.com/>
 
-
-
-## Ahref 
-
-
+## Ahref
 
 ![Ferramenta SEO ](/img/captura-de-tela-2020-08-18-às-14.35.29.png "Ahrefs")
 
@@ -109,8 +89,6 @@ Ferramenta SEO tudo em um
 <https://ahrefs.com/>
 
 Espero ter podido ajudar com essas dicas e, se achar que o conteúdo desse post te ajudou em algo, fique à vontade para comentar via Disqus e compartilhar com mais pessoas afins.  Siga nas redes sociais para receber conteúdos exclusivos. 
-
-
 
 **Fontes:** 
 
