@@ -1,7 +1,7 @@
 ---
 title: Mentoria em gestão ágil
 subtitle: 'Desenvolva habilidades para gerenciar produtos digitais. '
-image: /img/indo01.webp
+image: /img/indo01-min.jpg
 blurb:
   heading: O que fazemos?
   text: >+
