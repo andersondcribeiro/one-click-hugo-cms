@@ -6,13 +6,11 @@ description: >-
   visto com cautela?
 image: /img/post2.jpg
 ---
-Escalar um time multidisciplinar _scrum_ já é uma tarefa árdua e, à medida que um produto cresce, é quase inevitável ter de escalar novos times. 
+\*Escalar um time multidisciplinar _scrum_ já é uma tarefa árdua e, à medida que um produto cresce, é quase inevitável ter de escalar novos times. 
 
 Para ajudar nesse processo, um dos criadores do _scrum_, Ken Schwaber, escreveu o [Nexus](https://www.scrum.org/resources/nexus-guide), e o definiu como um _framework_ para minimizar as dependências entre equipes e os problemas de integração. 
 
 O famigerado modelo de _squads_ do Spotify deveria seguir a mesma lógica do Nexus mas não é o   que [Jeremiah Lee](https://www.jeremiahlee.com/posts/failed-squad-goals/), ex-funcionário da empresa de _streaming_, diz em sua  postagem que gerou certa polêmica, trazendo até o Marting Cagam para debater sobre  o tema. 
-
-
 
 ## Se o Spotify não usa “o modelo Spotify”, você também não deveria usar.
 
@@ -20,8 +18,6 @@ O famigerado modelo de _squads_ do Spotify deveria seguir a mesma lógica do Nex
 
 > * O modelo de _squads_ que gera certo fascínio em _startups_ e times de produto que o veem como exemplo de velocidade e agilidade nunca foi totalmente implementado pela empresa, sendo, segundo ele, algo apenas aspiracional e que, para alguns, só funciona para fazer recrutamento.
 > * O caos organizacional do Spotify, aparente ao se verem os líderes da empresa gradualmente transitando para estruturas de gestão mais tradicionais.
->
->
 
 ## Você não precisa acreditar nele…
 
@@ -31,19 +27,13 @@ Para trazer mais credibilidade aos pontos abordados em sua postagem, Lee resgato
 >
 > \
 >
->
 > — Joakim Sundén, Agile Coach no Spotify 2011-2017
-
-
-
+>
 > “Me preocupa quando as pessoas olham para o que fazemos e acham que é uma estrutura que podem apenas copiar e implementar… Estamos realmente nos esforçando para enfatizar que também temos problemas. Não é como se tudo fosse ‘brilhante, que tudo funciona bem e que todos os nossos squads são superincríveis’.”
 >
 > \
 >
->
 > — Anders Ivarsson, co-autor do whitepaper do Spotify
-
-
 
 ## O que não funcionou
 
