@@ -1,5 +1,7 @@
 .lh-solid { line-height: 1; }
 .lh-title { line-height: 1.25; }
+.lh-sub { line-height: 0.20; }
+
 .lh-copy  { line-height: 1.5; }
 
 @media (--breakpoint-not-small) {
