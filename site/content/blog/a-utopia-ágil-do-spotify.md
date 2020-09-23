@@ -49,12 +49,6 @@ Para [Marty Cagan](https://svpg.com/our-team/#marty), um dos criadores do site [
 
 E você, o que achou? 
 
-
-
-{"entry":\[{"id":"75797817","hash":"5258e24f357f8bb0adeb242a63181f4e","requestHash":"andersondcribeiro","profileUrl":"http:\/\/gravatar.com\/andersondcribeiro","preferredUsername":"andersondcribeiro","thumbnailUrl":"http:\/\/1.gravatar.com\/avatar\/5258e24f357f8bb0adeb242a63181f4e","photos":[{"value":"http:\/\/1.gravatar.com\/avatar\/5258e24f357f8bb0adeb242a63181f4e","type":"thumbnail"}],"name":{"givenName":"Anderson","familyName":"Ribeiro","formatted":"Anderson DC Ribeiro"},"displayName":"andersondcribeiro","aboutMe":"Product Manager e UX designer com oito anos de experi\u00eancia ajudando empresas no planejamento estrat\u00e9gico de produtos e servi\u00e7os B2B e B2C. \nGamer e dj nas horas vagas","currentLocation":"Brasil","emails":\[{"primary":"true","value":"andersondcribeiro@gmail.com"}],"urls":\[{"value":"https:\/\/www.estudiooca.com.br","title":"Est\u00fadiooca"}]}]}
-
-
-
 Texto original em inglês:[ https://www.jeremiahlee.com/posts/failed-squad-goals/](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 
 Reaction: <https://www.jeremiahlee.com/posts/failed-squad-goals/comments/>
