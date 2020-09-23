@@ -6,7 +6,7 @@ description: >-
   visto com cautela?
 image: /img/post2.jpg
 ---
-Autor: <a href="https://twitter.com/andersondcrb?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @andersondcrb</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+**Autor:** <a href="https://twitter.com/andersondcrb?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @andersondcrb</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Escalar um time multidisciplinar _scrum_ já é uma tarefa árdua e, à medida que um produto cresce, é quase inevitável ter de escalar novos times. 
 
@@ -50,8 +50,6 @@ Autonomia requer _accountability_ (responsabilização). _Product management_ é
 Para [Marty Cagan](https://svpg.com/our-team/#marty), um dos criadores do site [SVPG](https://svpg.com/spotify-vs-fitbit/) e autor do livro [Inspired](https://svpg.com/inspired-how-to-create-products-customers-love/), uma das maiores referencias em _product management_, Jeremiah Lee critica o modelo Spotify, mas esquece de mencionar que o Spotify, entre erros e acertos, construiu uma empresa que vale mais de US$ 25 bilhões. 
 
 E você, o que achou? 
-
-<!--Blog Badge Generated Using app.grplusbd.net/blog-badge-generator coded by fb.com/tawsif.torabi blog.grplusbd.net--><div id="grplusbd_floating_likebox" style="position: fixed; bottom: 0px; right: 0px; border-radius: 30px 0px 0px 0px; padding: 10px 15px; background-color: rgba(255, 0, 0, 0.93); box-shadow: 1px 1px 7px black; z-index:999;"><span id="iconContainer" style="border-radius: 50px; display: inline-block; overflow: hidden; vertical-align: middle;"><img id="ico" style="vertical-align:middle;	height: 45px; width: auto;" onerror="this.src='error.png'; this.style.backgroundColor = 'white'; imageerror();" src="photo.jpg"></span><iframe id="floatfollow" allowtransparency="true" frameborder="0" height="50" scrolling="no" src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Ftawsif.torabi&width=64&height=65&layout=box_count&size=small&show_faces=true&appId=164293520647951" style="border:none;overflow:hidden; vertical-align: middle; float: right;" width="64"></iframe><br><span id="name" style="font-weight: bold; color: white; font-family:arial;">Tawsif Torabi</span><br><small id="job" style="font-weight: bold; color: white; font-family:arial;">Web Developer, GR+ Bangladesh</small></div>
 
 Texto original em inglês:[ https://www.jeremiahlee.com/posts/failed-squad-goals/](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 
