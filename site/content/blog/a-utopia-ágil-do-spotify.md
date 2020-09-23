@@ -51,7 +51,7 @@ Para [Marty Cagan](https://svpg.com/our-team/#marty), um dos criadores do site [
 
 E você, o que achou? 
 
-
+<!--Blog Badge Generated Using app.grplusbd.net/blog-badge-generator coded by fb.com/tawsif.torabi blog.grplusbd.net--><div id="grplusbd_floating_likebox" style="position: fixed; bottom: 0px; right: 0px; border-radius: 30px 0px 0px 0px; padding: 10px 15px; background-color: rgba(255, 0, 0, 0.93); box-shadow: 1px 1px 7px black; z-index:999;"><span id="iconContainer" style="border-radius: 50px; display: inline-block; overflow: hidden; vertical-align: middle;"><img id="ico" style="vertical-align:middle;	height: 45px; width: auto;" onerror="this.src='error.png'; this.style.backgroundColor = 'white'; imageerror();" src="photo.jpg"></span><iframe id="floatfollow" allowtransparency="true" frameborder="0" height="50" scrolling="no" src="https://www.facebook.com/plugins/follow.php?href=https%3A%2F%2Fwww.facebook.com%2Ftawsif.torabi&width=64&height=65&layout=box_count&size=small&show_faces=true&appId=164293520647951" style="border:none;overflow:hidden; vertical-align: middle; float: right;" width="64"></iframe><br><span id="name" style="font-weight: bold; color: white; font-family:arial;">Tawsif Torabi</span><br><small id="job" style="font-weight: bold; color: white; font-family:arial;">Web Developer, GR+ Bangladesh</small></div>
 
 Texto original em inglês:[ https://www.jeremiahlee.com/posts/failed-squad-goals/](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 
