@@ -6,6 +6,14 @@ description: >-
   visto com cautela?
 image: /img/post2.jpg
 ---
+**Autor** 
+
+**Autor**
+
+**<a href="https://twitter.com/andersondcrb?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @andersondcrb</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>**
+
+
+
 Escalar um time multidisciplinar _scrum_ já é uma tarefa árdua e, à medida que um produto cresce, é quase inevitável ter de escalar novos times. 
 
 Para ajudar nesse processo, um dos criadores do _scrum_, Ken Schwaber, escreveu o [Nexus](https://www.scrum.org/resources/nexus-guide), e o definiu como um _framework_ para minimizar as dependências entre equipes e os problemas de integração. 
@@ -49,13 +57,7 @@ Para [Marty Cagan](https://svpg.com/our-team/#marty), um dos criadores do site [
 
 E você, o que achou? 
 
-**Autor**
 
-**<a href="https://twitter.com/andersondcrb?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @andersondcrb</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>**
-
-****
-
-****
 
 Texto original em inglês:[ https://www.jeremiahlee.com/posts/failed-squad-goals/](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 
