@@ -1,19 +1,17 @@
 ---
 title: 'A utopia ágil do Spotify  '
 date: 2020-07-12T12:02:43.226Z
-description: >-
+description: >
   Por que o modelo de squads criado pela empresa de streaming Spotify deve ser
   visto com cautela?
+
+
+  Autor <a href="https://twitter.com/andersondcrb?ref_src=twsrc%5Etfw"
+  class="twitter-follow-button" data-show-count="false">Follow
+  @andersondcrb</a><script async src="https://platform.twitter.com/widgets.js"
+  charset="utf-8"></script>
 image: /img/post2.jpg
 ---
-**Autor** 
-
-**Autor**
-
-**<a href="https://twitter.com/andersondcrb?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @andersondcrb</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>**
-
-
-
 Escalar um time multidisciplinar _scrum_ já é uma tarefa árdua e, à medida que um produto cresce, é quase inevitável ter de escalar novos times. 
 
 Para ajudar nesse processo, um dos criadores do _scrum_, Ken Schwaber, escreveu o [Nexus](https://www.scrum.org/resources/nexus-guide), e o definiu como um _framework_ para minimizar as dependências entre equipes e os problemas de integração. 
