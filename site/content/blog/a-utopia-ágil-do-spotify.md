@@ -6,8 +6,6 @@ description: >-
   visto com cautela?
 image: /img/post2.jpg
 ---
-**Autor:** <a href="https://twitter.com/andersondcrb?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @andersondcrb</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Escalar um time multidisciplinar _scrum_ já é uma tarefa árdua e, à medida que um produto cresce, é quase inevitável ter de escalar novos times. 
 
 Para ajudar nesse processo, um dos criadores do _scrum_, Ken Schwaber, escreveu o [Nexus](https://www.scrum.org/resources/nexus-guide), e o definiu como um _framework_ para minimizar as dependências entre equipes e os problemas de integração. 
@@ -55,10 +53,6 @@ Texto original em inglês:[ https://www.jeremiahlee.com/posts/failed-squad-goals
 
 Reaction: <https://www.jeremiahlee.com/posts/failed-squad-goals/comments/>
 
+**Autor**
 
-
-Autor
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="andersondcribeiro"><a class="LI-simple-link" href='https://br.linkedin.com/in/andersondcribeiro?trk=profile-badge'>Anderson da Costa Ribeiro</a></div>
+<a href="https://twitter.com/andersondcrb?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @andersondcrb</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
