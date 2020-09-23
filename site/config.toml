@@ -14,6 +14,7 @@ title = "Estúdiooca"
 #disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 [taxonomies]
   author = "authors"
+  disableKinds = ["taxonomyTerm"]
 
 
 
