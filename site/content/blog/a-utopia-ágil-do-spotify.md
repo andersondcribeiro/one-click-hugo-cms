@@ -49,12 +49,6 @@ Para [Marty Cagan](https://svpg.com/our-team/#marty), um dos criadores do site [
 
 E você, o que achou? 
 
-<div class="signature">
-
-<p class="sig-content">Dorothy Gale is a farmgirl from Kansas. She likes using fences as balance beams, hanging out with her little dog, Toto, and riding in hot-air balloons. You can follow Dorothy on <a href="http://www.twitter.com/twitter">Twitter</a>, <a href="http://www.pinterest.com">Pinterest</a>, and <a href="http://www.facebook.com">Facebook</a></p>
-
-</div>
-
 Texto original em inglês:[ https://www.jeremiahlee.com/posts/failed-squad-goals/](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 
 Reaction: <https://www.jeremiahlee.com/posts/failed-squad-goals/comments/>
