@@ -51,6 +51,12 @@ E você, o que achou?
 
 **Autor**
 
+**<a href="https://twitter.com/andersondcrb?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @andersondcrb</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>**
+
+****
+
+****
+
 Texto original em inglês:[ https://www.jeremiahlee.com/posts/failed-squad-goals/](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 
 Reaction: <https://www.jeremiahlee.com/posts/failed-squad-goals/comments/>
