@@ -49,6 +49,12 @@ Para [Marty Cagan](https://svpg.com/our-team/#marty), um dos criadores do site [
 
 E você, o que achou? 
 
+Autor:
+
+<div class="author-box"><div><img src="https://secure.gravatar.com/avatar/9ca03f7a484f338d24dabd46aa6fe40b?s=70&amp;d=https%3A%2F%2Fwww.bloggerheroe.com%2Fwp-content%2Fplugins%2Fwp-user-avatar%2Fimages%2Fwpua-96x96.png&amp;r=g" width="70" height="70" alt="" class="avatar avatar-70 wp-user-avatar wp-user-avatar-70 photo avatar-default"><noscript><img src="https://secure.gravatar.com/avatar/9ca03f7a484f338d24dabd46aa6fe40b?s=70&#038;d=https%3A%2F%2Fwww.bloggerheroe.com%2Fwp-content%2Fplugins%2Fwp-user-avatar%2Fimages%2Fwpua-96x96.png&#038;r=g" width="70" height="70" alt="" class="avatar avatar-70 wp-user-avatar wp-user-avatar-70 photo avatar-default" /></noscript> <strong>About kasper</strong><br><p>Hey Guys I am Avinash a.k.a Kasper.I am one of the founder of this blog.I love blogging,gaming and other fitness activities.Blogging has taught me many things in my life and made me different from others.The only thing I believe is that if you ain't First your Last!</p>
+
+</div></div>
+
 Texto original em inglês:[ https://www.jeremiahlee.com/posts/failed-squad-goals/](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 
 Reaction: <https://www.jeremiahlee.com/posts/failed-squad-goals/comments/>
