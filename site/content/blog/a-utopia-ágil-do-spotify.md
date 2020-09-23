@@ -6,9 +6,7 @@ description: >-
   visto com cautela?
 image: /img/post2.jpg
 ---
-Autor
-
-<a href="https://twitter.com/andersondcrb?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @andersondcrb</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Autor: <a href="https://twitter.com/andersondcrb?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @andersondcrb</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Escalar um time multidisciplinar _scrum_ já é uma tarefa árdua e, à medida que um produto cresce, é quase inevitável ter de escalar novos times. 
 
