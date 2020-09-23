@@ -49,12 +49,6 @@ Para [Marty Cagan](https://svpg.com/our-team/#marty), um dos criadores do site [
 
 E você, o que achou? 
 
-**Author**
-
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="light" data-vanity="andersondcribeiro"><a class="LI-simple-link" href='https://br.linkedin.com/in/andersondcribeiro?trk=profile-badge'>Anderson da Costa Ribeiro</a></div>
-
-
-
 Texto original em inglês:[ https://www.jeremiahlee.com/posts/failed-squad-goals/](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 
 Reaction: <https://www.jeremiahlee.com/posts/failed-squad-goals/comments/>
