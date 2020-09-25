@@ -20,6 +20,8 @@ Vídeo demo do aplicativo UberCab quando ainda era voltado para limusines.
 
 
 
+
+
 ## DropBox
 
 Setembro 2008
@@ -30,11 +32,15 @@ Drew Houston de 24 anos dá a primeira introdução ao Dropbox
 
 
 
+
+
 ## Google Street View
 
 Maio 2007
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/91wuBqlny50" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 
@@ -48,6 +54,8 @@ O LinkedIn não era muito novo quando lançou este vídeo de marketing, mas aind
 
 
 
+
+
 ## Twitch (Justin.tv)
 
 Fevereiro 2010
@@ -55,6 +63,8 @@ Fevereiro 2010
 Antes do Twitch era o Justin.tv.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kfDBxa65m_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 
