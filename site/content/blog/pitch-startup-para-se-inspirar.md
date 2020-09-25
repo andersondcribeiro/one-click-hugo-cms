@@ -74,4 +74,4 @@ Obrigado pela leitura!
 
 **Tags:**
 
-\#pitchstarup #videopitch #pitchdevendas
+\#pitchstartup #videopitch #pitchdevendas
