@@ -8,7 +8,7 @@ description: >-
   sucesso como...
 image: /img/croods-2-.png
 ---
-O Google, Dropbox, Twitch, Linkedin, Docker e Uber não foi diferente. Inspirado no Kapwing, selecionei alguns vídeo pitch dessas apresentações logo abaixo, que podem servir de inspiração. 
+o Google, Dropbox, Twitch, Linkedin, Docker e Uber não foi diferente. Inspirado no Kapwing, selecionei alguns vídeo pitch dessas apresentações logo abaixo, que podem servir de inspiração. 
 
 ## **Uber**
 
