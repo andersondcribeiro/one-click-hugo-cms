@@ -12,7 +12,7 @@ apesar de ter a visão e os recursos necessários, suponhamos que acabe achando 
 
 ## O papel do product owner
 
-Product owner é o papel desempenhado por única pessoa dentro de um time scrum. É sua responsabilidade gerenciar o backlog do produto, maximizar o valor do produto desenvolvido pelo time de desenvolvimento e também ser capaz de:  
+Product owner é o papel desempenhado por uma única pessoa dentro de um time scrum. É sua responsabilidade gerenciar o backlog do produto, maximizar o valor do produto desenvolvido pelo time de desenvolvimento e também ser capaz de:  
 
 * Priorizar os itens do backlog do produto;
 * Manter os itens do backlog do produto atualizados;
