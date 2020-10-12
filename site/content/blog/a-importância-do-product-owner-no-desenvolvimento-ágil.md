@@ -25,6 +25,14 @@ Ainda segundo o Scrum Guide, para que o product owner possa ter sucesso, toda a 
 
 A forma como isso é feito pode variar  de empresa para empresa, time scrum etc.
 
+
+
+![](/img/arte-post-.png)
+
+
+
+
+
 Fontes 
 
 [Scrum Guide ](https://scrumguides.org/scrum-guide.html)
