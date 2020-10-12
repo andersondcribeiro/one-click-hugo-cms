@@ -3,16 +3,12 @@ title: 'A importância do product owner no desenvolvimento ágil '
 date: 2020-10-12T17:59:35.023Z
 description: >-
   Suponhamos que você tenha uma empresa que precisa migrar seus produtos para o
-  meio digital ou alguém com recursos para empreender numa área que acredita ter
-  potencial para mudar o mercado. Poderia ser um serviço ou produto, como um 
+  meio digital ou seja alguém que tenha recursos para empreender numa área que
+  acredita ter potencial para mudar o mercado. Poderia ser um produto, como um 
   aplicativo para compras online, por exemplo. Porém...
 image: /img/arte-post-.png
 ---
-## O que é um product owner?
-
 apesar de ter a visão e os recursos necessários, suponhamos que acabe achando tudo complexo demais. Sua maior habilidade nesse processo é formular a visão daquilo que deseja criar e não necessariamente a execução. E mesmo que você pudesse executar sua visão, se tivesse que dividir seu  tempo com outras tarefas de gerenciamento, poderia acabar desistindo. Numa conjuntura como essa, entretanto, a história seria outra se você contasse com mais alguém: um profissional cuja experiência em processos e ferramentas fosse capaz de traduzir sua visão para um grupo de pessoas capacitadas a encontrar a melhor forma de construir seu produto em tempo para o mercado, maximizando valor e comunicando, de forma transparente, os avanços e próximos passos de acordo com os feedbacks do mercado. Bom, como descrito por Don McGreal, Ralph Jocham e um dos criadores do scrum, Ken Schwaber no livro “The Professional Product Owner”,  esse profissional é o product owner.
-
-
 
 ## O papel do product owner
 
