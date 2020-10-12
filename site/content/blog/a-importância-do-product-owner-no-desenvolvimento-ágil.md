@@ -25,7 +25,13 @@ Ainda segundo o Scrum Guide, para que o product owner possa ter sucesso, toda a 
 
 A forma como isso é feito pode variar  de empresa para empresa, time scrum etc.
 
-https://www.estudiooca.com.br/img/logo.svg
+
+
+## Desenvolva produtos com mindset ágil 
+
+Quer [saber mais](https://www.estudiooca.com.br/agendar/) sobre como desenvolver produtos ou serviços com mindset ágil ou como escalar um time com habilidades técnicas essenciais para trabalhar com scrum? [Agende uma consulta grátis e saiba mais sobre nossas soluções](https://www.estudiooca.com.br/agendar/).
+
+
 
 Fontes 
 
