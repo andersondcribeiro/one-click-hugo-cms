@@ -12,21 +12,44 @@
   
 </script>
  
- 
-<!-- teste aplause button -->
-  <!-- add the button style & script -->
-  <link rel="stylesheet" href="applause-button.css" />
-  <script src="applause-button.js"></script>
+</head>
 
+
+<!-- teste aplause button -->
+  <head>
+  <link rel="stylesheet" href="dist/applause-button.css" />
+  <script src="dist/applause-button.js"></script>
+  <style>
+    applause-button {
+      width: 58px;
+      height: 58px;
+      margin-top: 40px;
+      margin-left: 40px;
+    }
+  </style>
+</head>
 <body>
-  <!-- add the button! -->
-  <applause-button style="width: 58px; height: 58px;"/>
-</body>  
+  <applause-button id="applause" multiclap="true" url="google.com"/>
+  <script type="text/javascript">
+
+    const button = document.getElementById("applause");
+
+    button.initialClapCount.then(function(count) {
+      console.log("initial clap count", count);
+    });
+
+    button.addEventListener("clapped", function(event) {
+      console.log("button clapped", event.detail);
+    });
+  </script>
+</body>
 <!-- fim teste aplause button --> 
  
- 
- 
-</head>
+
+
+
+
+
 
   <div class="mw6 center ph3 pv4">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
