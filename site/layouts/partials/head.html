@@ -1,34 +1,11 @@
 <head>	
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WJVSB5G');</script>
-<!-- End Google Tag Manager -->	
-<!-- Google Optimize-->
-<script src="https://www.googleoptimize.com/optimize.js?id=OPT-KV24R52"></script>
-<!-- fim do googl optimiza -->	
-	
-	
-<!-- Dashly BEGIN -->
-<script type="text/javascript">
-!function(){function t(t,e){return function(){window.dashlyasync.push(t,arguments)}}if("undefined"==typeof dashly){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//cdn.dashly.app/api.min.js",document.getElementsByTagName("head")[0].appendChild(e),window.dashly={},window.dashlyasync=[],dashly.settings={};for(var n=["connect","track","identify","auth","oth","onReady","addCallback","removeCallback","trackMessageInteraction"],a=0;a<n.length;a++)dashly[n[a]]=t(n[a])}}(),dashly.connect("3137-8fe0a4ac6e5cdae2ceae12b86be");
-</script>
-<!-- Dashly END -->	
-	
-	
-	
+			
 <!-- meta name -->		
 <meta name="description" content="Consultoria e treinamento em gestão de produtos digitais. Websites e Aplicativos, SAAS, B2B, B2C. Oferecemos mentoria em Scrum, Product Management e UX Design"/>
 <meta name="robots" content="follow, index"/>
 <link rel="canonical" href="https://www.estudiooca.com.br" />
 <meta name="author" content="estúdiooca"/>
 	
-	<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJVSB5G"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 	
 	{{ range .AlternativeOutputFormats -}}
     {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
@@ -74,6 +51,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
+	
+<!-- Google Optimize-->
+<script src="https://www.googleoptimize.com/optimize.js?id=OPT-KV24R52"></script>
+<!-- fim do googl optimiza -->	
 			
 <!-- Facebook Pixel Code -->
 <script>
