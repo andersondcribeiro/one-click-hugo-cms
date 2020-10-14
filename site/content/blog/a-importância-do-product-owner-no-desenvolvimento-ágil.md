@@ -1,5 +1,5 @@
 ---
-title: 'A importância do product owner no desenvolvimento ágil '
+title: O que é um Product Owner?
 date: 2020-10-12T17:59:35.023Z
 description: >-
   Suponhamos que você tenha uma empresa que precisa migrar seus produtos para o
