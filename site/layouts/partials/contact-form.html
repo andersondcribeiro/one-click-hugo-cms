@@ -3,7 +3,7 @@
 <div class="mb4">
   <h4 class="f3 b lh-title mb3 tc">Envie uma mensagem</h4>
 
-  <form name="contact-form" action="email-form" method="POST" data-netlify="true">
+  <form name="contact-form" action="email-form" method="POST" data-netlify-recaptcha="true" data-netlify="true">
    
     <div class="flex-l mhn1-l">
       <!-- Name -->
@@ -28,6 +28,7 @@
       <label for="message">Escrever mensagem</label>
     </fieldset>
     <!-- Button -->
+     <div data-netlify-recaptcha="true"></div>
     <div class="tc">
       <button type="submit" class="btn w-100 w-auto-ns raise">Enviar</button>
     </div>
