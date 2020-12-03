@@ -2,7 +2,7 @@
 title: O que é um Product Owner?
 date: 2020-10-14T10:31:04.426Z
 description: >-
-  Suponhamos que você tenha uma empresa que precisa migrar seus produtos para o
+  Digamos que você tenha uma empresa que precisa migrar seus produtos para o
   meio digital ou seja alguém que tenha recursos para empreender numa área que
   acredita ter potencial para mudar o mercado. Poderia ser um produto, como um
   aplicativo para compras online, por exemplo. Porém...
