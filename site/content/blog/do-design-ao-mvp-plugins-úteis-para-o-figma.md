@@ -10,6 +10,8 @@ image: /img/do-desdign-ao-mvp.jpg
 ---
  empreendedores digitais. Embora um empreendedor digital não seja necessariamente um designer ou vice-versa, ambos têm algo em comum: precisam testar e validar ideias e transformar esboços em produtos minimamente viáveis para o mercado (MVP), de preferência, usando ferramentas acessíveis ao bolso e com requisitos mínimos que atendam aos processos de validação das etapas de desenvolvimento com outros times, clientes ou investidores de forma remota. Claro que já existem diversas ferramentas para essa finalidade, como o velho Illustrator ou o Photoshop, que podem ser adquiridos com uma assinatura do Adobe Cloud ou até opções semelhantes como o Photopea ou Marvel App; mas, como a ideia aqui é ir do Design ao MVP de forma remota, o foco será o Figma. Por se tratar  de uma super ferramenta de criação e colaboração 100% online, o Figma vem se tornado cada vez mais popular entre designers de interface de usuário e desenvolvedores front-end - talvez, por possuir uma vasta coleção de plugins e APIs que se integram a outras ferramentas como as destacadas a seguir.
 
+
+
 ## \#Bravo Vision
 
 A proposta do Bravo Vision é ambiciosa. Com ele, é possível ir do protótipo no Figma ao aplicativo nativo para iOS e Android sem escrever código. Com ele, é possível, por exemplo: conectar-se a um banco de dados como o _Air Table_, ou qualquer outro rest API, e também publicar um app direto da plataforma usando uma conta de desenvolvedor Google Play ou App Store.
@@ -18,9 +20,7 @@ A proposta do Bravo Vision é ambiciosa. Com ele, é possível ir do protótipo 
 
 ![Bravo Vision](/img/bravo_vision.jpg "Bravo Vision")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yn9Ts5mO-y4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Site Bravo Vision](https://www.bravostudio.app/)
 
 
 
@@ -30,7 +30,7 @@ O Anima App propõe unir o trabalho do design com o do desenvolvedor em uma esp�
 
 ![Anima APP](/img/animaapp.jpg "Anima APP")
 
-[Site Anima APP](https://www.animaapp.com/)
+
 
 
 
@@ -40,7 +40,7 @@ Ainda em fase beta, o Fig Side se integra ao Figma e promete converter layouts c
 
 ![Figside](/img/figside.jpg "Figside")
 
-[Site Fig Side ](https://figside.com/)
+
 
 
 
@@ -50,9 +50,7 @@ O Visual Eyes é uma ferramenta focada em analisar a usabilidade do design da in
 
 ![visual eyes](/img/visualeyes.jpg "visual eyes")
 
-[Site visual eyes](https://www.visualeyes.design/)
 
-[Plugin visual eyes para o Figma](https://www.figma.com/community/plugin/740542057689267294/VisualEyes)
 
 
 
@@ -61,10 +59,6 @@ O Visual Eyes é uma ferramenta focada em analisar a usabilidade do design da in
 O Remove BG é uma ferramenta que usa inteligência artificial para remover o fundo de qualquer imagem. Funciona 100% via browser e ainda conta com versão gratuita e plugin para o Figma. Ótimo para quem não quer recorrer ao Photoshop para isso. 
 
 ![remove bg](/img/removebg.jpg "remove bg")
-
-[Site Remove BG ](https://www.remove.bg/pt-br)
-
-[Plugin Remove BG Figma](https://www.figma.com/community/plugin/738992712906748191/Remove-BG)
 
 
 
@@ -102,7 +96,13 @@ Obrigado pela leitura!
 
 [Bravo Vision](https://www.bravostudio.app/)
 
+[Anima APP](https://www.animaapp.com/)
+
 [Visual Eyes](https://www.figma.com/community/plugin/740542057689267294/VisualEyes)
+
+[Plugin visual eyes para o Figma](https://www.figma.com/community/plugin/740542057689267294/VisualEyes)
+
+[Fig Side ](https://figside.com/)
 
 [Material Design Icons](https://www.figma.com/community/plugin/740272380439725040/Material-Design-Icons)
 
@@ -121,6 +121,16 @@ Obrigado pela leitura!
 [Adobe XD](https://www.adobe.com/br/products/xd.html)
 
 [Fotopea](https://www.photopea.com/)
+
+[Site Remove BG ](https://www.remove.bg/pt-br)
+
+[Plugin Remove BG Figma](https://www.figma.com/community/plugin/738992712906748191/Remove-BG)
+
+
+
+
+
+
 
 \#uxdesign
 
