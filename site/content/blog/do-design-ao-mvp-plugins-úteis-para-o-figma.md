@@ -6,7 +6,7 @@ description: >-
   ao distanciamento social causado pela Covid19. O home office passou a ser o
   novo normal e, aparentemente, muita gente ainda está tentando se adaptar a
   essa realidade. Isso inclui designers de interface de usuário e...
-image: /img/do-desdign-ao-mvp.jpg
+image: /img/capa.jpg
 ---
  empreendedores digitais. Embora um empreendedor digital não seja necessariamente um designer ou vice-versa, ambos têm algo em comum: precisam testar e validar ideias e transformar esboços em produtos minimamente viáveis para o mercado (MVP), de preferência, usando ferramentas acessíveis ao bolso e com requisitos mínimos que atendam aos processos de validação das etapas de desenvolvimento com outros times, clientes ou investidores de forma remota. Claro que já existem diversas ferramentas para essa finalidade, como o velho Illustrator ou o Photoshop, que podem ser adquiridos com uma assinatura do Adobe Cloud ou até opções semelhantes como o Photopea ou Marvel App; mas, como a ideia aqui é ir do Design ao MVP de forma remota, o foco será o Figma. Por se tratar  de uma super ferramenta de criação e colaboração 100% online, o Figma vem se tornado cada vez mais popular entre designers de interface de usuário e desenvolvedores front-end - talvez, por possuir uma vasta coleção de plugins e APIs que se integram a outras ferramentas como as destacadas a seguir.
 
@@ -20,6 +20,8 @@ A proposta do Bravo Vision é ambiciosa. Com ele, é possível ir do protótipo 
 
 ![Bravo Vision](/img/bravo_vision.jpg "Bravo Vision")
 
+<br>
+
 
 
 
@@ -32,6 +34,8 @@ O Anima App propõe unir o trabalho do design com o do desenvolvedor em uma esp�
 
 
 
+<br>
+
 
 
 ## \#Fig Side
@@ -40,7 +44,7 @@ Ainda em fase beta, o Fig Side se integra ao Figma e promete converter layouts c
 
 ![Figside](/img/figside.jpg "Figside")
 
-
+<br>
 
 
 
@@ -50,7 +54,7 @@ O Visual Eyes é uma ferramenta focada em analisar a usabilidade do design da in
 
 ![visual eyes](/img/visualeyes.jpg "visual eyes")
 
-
+<br>
 
 
 
@@ -86,7 +90,7 @@ Obrigado pela leitura!
 
 [Dicas de trabalho remoto para Ux designers (Inglês)](https://www.awwwards.com/remote-working-tips-for-ux-design-teams.html)
 
-
+<br>
 
 ## Links para Figma e outras ferramentas
 
@@ -128,9 +132,7 @@ Obrigado pela leitura!
 
 
 
-
-
-
+<br>
 
 \#uxdesign
 
@@ -141,3 +143,5 @@ Obrigado pela leitura!
 \#empreender
 
 \#empreendedorismodigital
+
+<br>
