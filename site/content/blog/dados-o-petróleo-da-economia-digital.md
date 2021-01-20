@@ -10,35 +10,25 @@ image: /img/arte_dada.jpg
 ---
 Ainda segundo a visão de Brent, as empresas que forem mais capazes de transformar seus dados em _insights_, e seu _insights_ em conhecimento, serão as que terão mais capacidade de sobreviver. E isso não é uma questão de quando: já acontece há algum tempo com empresas de diversos segmentos de mercado que  nasceram no meio digital, como o Nubank, o Google, a Amazon, a Netflix e, mais recentemente, a Disney, que, ao que tudo indica, parece estar mudando seu posicionamento no mercado ao investir no _streaming_ com o lançamento do Disney +.  
 
-
-
-## \#Mais empresas migram para meio digital devido à crise 
+## \#Empresas migram para o digital devido à crise
 
 ![](/img/imag-pos-data-02.jpg)
 
-
-
 Em 2020, com o agravamento da pandemia causada pela Covid-19, parece que mais e mais empresas se viram obrigadas a migrar para o meio digital. Porém, é preciso destacar que migrar para o meio digital não significa necessariamente apenas criar um perfil para a marca em redes sociais ou investir em um web site ou aplicativo. Apesar de essas alternativas poderem até parecer uma forma rápida de inclusão no meio digital, é prudente montar um planejamento estratégico - o que só é possível com o uso de metodologias e ferramentas adequadas. 
 
-
-
-## \#Mitigando riscos ao migrar para o meio digital
+## \#Mitigando riscos no meio digital
 
 ![](/img/plan.jpg)
 
-Claro que isso não é a bala de prata que irá resolver todos os problemas, mas um planejamento com o uso de ferramentas e metodologias adequadas pode ajudar a mitigar riscos e a evitar frustrações como: problemas para captar e reter usuários depois de investimentos em campanhas de marketing digital, cancelamentos de assinatura, e aumento no número de reclamações advindas a aquisição de produtos ou serviços.
+Claro que isso não é a bala de prata que irá resolver todos os problemas, mas um planejamento com o uso de ferramentas e metodologias adequadas pode ajudar a mitigar riscos e a evitar frustrações como: problemas para captar e reter usuários depois de investimentos em campanhas de marketing digital, cancelamentos de assinatura, e aumento no número de reclamações advindas a aquisição de produtos ou serviços. `<br>`
 
-E aí? Quer saber mais sobre como o uso de dados e metodologias adequadas podem ajudar você e sua empresa a migrar para o meio digital? [Agende uma consulta grátis](https://www.estudiooca.com.br/agendar/) por vídeo com o Estúdiooca!
+E aí? Quer saber mais sobre como o uso de dados e metodologias adequadas podem ajudar você e sua empresa a migrar para o meio digital? [Agende uma consulta grátis](https://www.estudiooca.com.br/agendar/) por vídeo com o Estúdiooca! `<br>`
 
 Achou esse conteúdo útil? Compartilhe! Assim você ajuda o blog a continuar a criar conteúdos como esse.
 
-Obrigado pela leitura!
-
-
+Obrigado pela leitura! `<br>`
 
 ## Outros conteúdos que podem interessar
-
-
 
 [Do design ao MVP ](https://www.estudiooca.com.br/blog/do-design-ao-mvp-plugins-%C3%BAteis-para-o-figma/)
 
@@ -50,11 +40,7 @@ Obrigado pela leitura!
 
 [O papel do product owner](https://www.estudiooca.com.br/blog/o-que-%C3%A9-um-product-owner/)
 
-
-
-## Links de referências  
-
-
+## Links de referências
 
 [Brent Dykes](https://www.forbes.com/sites/brentdykes/#73e743264c5b)
 
@@ -67,8 +53,6 @@ Obrigado pela leitura!
 [Disney se reestrutura para focar no streaming](https://www.infomoney.com.br/negocios/disney-se-reestrutura-para-focar-em-operacoes-de-streaming/)
 
 [Empresas migram para o digital em meio à crise da Covid-19](https://www.terra.com.br/noticias/dino/empresas-migram-para-o-digital-e-impulsionam-agencias-em-meio-a-crise-da-covid-19,dab867bb7294cc0b49b4ab1bd631dca22bw1giaz.html)
-
-
 
 \#kpis 
 
