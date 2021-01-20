@@ -8,7 +8,7 @@ description: >-
   mais valiosos na era da economia digital.
 image: /img/arte_dada.jpg
 ---
-Ainda segundo a visão de Brent, as empresas que forem mais capazes de transformar seus dados em _insights_, e seu _insights_ em conhecimento, serão as que terão mais capacidade de sobreviver. E isso não é uma questão de quando: já acontece há algum tempo com empresas de diversos segmentos de mercado que  nasceram no meio digital, como o Nubank, o Google, a Amazon, a Netflix e, mais recentemente, a Disney, que, ao que tudo indica, parece estar mudando seu posicionamento no mercado ao investir no _streaming_ com o lançamento do Disney +.  
+Ainda segundo a visão de Brent, as empresas que forem mais capazes de transformar seus dados em _insights_, e seu _insights_ em conhecimento, serão as que terão mais capacidade de sobreviver. E isso não é uma questão de quando: já acontece há algum tempo com empresas de diversos segmentos de mercado que  nasceram no meio digital, como o Google, a Amazon, a Netflix e, mais recentemente, a Disney, que, ao que tudo indica, parece estar mudando seu posicionamento no mercado ao investir no _streaming_ com o lançamento do Disney +.  
 
 ## \#Mais empresas migram para o digital 
 
