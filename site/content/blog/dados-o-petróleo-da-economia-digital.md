@@ -20,13 +20,13 @@ Em 2020, com o agravamento da pandemia causada pela Covid-19, parece que mais e 
 
 ![](/img/plan.jpg)
 
-Claro que isso não é a bala de prata que irá resolver todos os problemas, mas um planejamento com o uso de ferramentas e metodologias adequadas pode ajudar a mitigar riscos e a evitar frustrações como: problemas para captar e reter usuários depois de investimentos em campanhas de marketing digital, cancelamentos de assinatura, e aumento no número de reclamações advindas a aquisição de produtos ou serviços. `<br>`
+Claro que isso não é a bala de prata que irá resolver todos os problemas, mas um planejamento com o uso de ferramentas e metodologias adequadas pode ajudar a mitigar riscos e a evitar frustrações como: problemas para captar e reter usuários depois de investimentos em campanhas de marketing digital, cancelamentos de assinatura, e aumento no número de reclamações advindas a aquisição de produtos ou serviços.
 
-E aí? Quer saber mais sobre como o uso de dados e metodologias adequadas podem ajudar você e sua empresa a migrar para o meio digital? [Agende uma consulta grátis](https://www.estudiooca.com.br/agendar/) por vídeo com o Estúdiooca! `<br>`
+E aí? Quer saber mais sobre como o uso de dados e metodologias adequadas podem ajudar você e sua empresa a migrar para o meio digital? [Agende uma consulta grátis](https://www.estudiooca.com.br/agendar/) por vídeo com o Estúdiooca! 
 
 Achou esse conteúdo útil? Compartilhe! Assim você ajuda o blog a continuar a criar conteúdos como esse.
 
-Obrigado pela leitura! `<br>`
+Obrigado pela leitura! 
 
 ## Outros conteúdos que podem interessar
 
