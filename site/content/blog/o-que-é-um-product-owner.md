@@ -30,8 +30,30 @@ Ainda segundo o Scrum Guide, para que o product owner possa ter sucesso, toda a 
 
 Quer saber mais sobre como desenvolver produtos com mindset ágil? [Agende uma consulta grátis](https://www.estudiooca.com.br/agendar/) em vídeo com o Estúdiooca para saber mais sobre nossas soluções.
 
+
+
+Achou esse conteúdo útil? Compartilhe! Assim você ajuda o blog a continuar a criar conteúdos como esse.
+
+Obrigado pela leitura!
+
+****
+
 **Fontes**
 
 [Scrum Guide](https://scrumguides.org/scrum-guide.html)
 
 [The Professional Scrum Product Owner - The Book](https://www.amazon.com.br/Professional-Product-Owner-Leveraging-Competitive-ebook/dp/B07D5ZPJBY/ref=asc_df_B07D5ZPJBY/?tag=googleshopp00-20&linkCode=df0&hvadid=379765285844&hvpos=&hvnetw=g&hvrand=11949515176094526955&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20102&hvtargid=pla-709581963117&psc=1)
+
+
+
+## Outros conteúdos que podem interessar
+
+[Do design ao MVP](https://www.estudiooca.com.br/blog/do-design-ao-mvp-plugins-%C3%BAteis-para-o-figma/)
+
+[Dados: o petróleo da economia digital ](https://www.estudiooca.com.br/blog/dados-o-petr%C3%B3leo-da-economia-digital/)
+
+[Indicadores de sucesso para software SaaS (E Book)](https://mailchi.mp/1fd9f7253cf8/ebooks-estudiooca)
+
+[Ferramentas de SEO e análise competitiva](https://www.estudiooca.com.br/blog/ferramentas-de-seo-e-an%C3%A1lise-competitiva-de-perfis-no-instagram-e-tiktok/)
+
+[Pitch decks de startups de sucesso](https://www.estudiooca.com.br/blog/pitch-decks-de-startups-de-sucesso-para-voc%C3%AA-se-inspirar/)
