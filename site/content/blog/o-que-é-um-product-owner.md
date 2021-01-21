@@ -32,6 +32,6 @@ Quer saber mais sobre como desenvolver produtos com mindset ágil? [Agende uma c
 
 **Fontes**
 
-****[Scrum Guide](https://scrumguides.org/scrum-guide.html)
+[Scrum Guide](https://scrumguides.org/scrum-guide.html)
 
 [The Professional Scrum Product Owner - The Book](https://www.amazon.com.br/Professional-Product-Owner-Leveraging-Competitive-ebook/dp/B07D5ZPJBY/ref=asc_df_B07D5ZPJBY/?tag=googleshopp00-20&linkCode=df0&hvadid=379765285844&hvpos=&hvnetw=g&hvrand=11949515176094526955&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=20102&hvtargid=pla-709581963117&psc=1)
