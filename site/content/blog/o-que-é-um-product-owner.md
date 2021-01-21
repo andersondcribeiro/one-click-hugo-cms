@@ -22,11 +22,9 @@ Segundo descrito no guia do scrum, o papel do product owner é desempenhado por 
 * Garantir que o backlog do produto seja visível, transparente e claro para todos;
 * Verificar se o backlog reflete o que a equipe scrum trabalhará a seguir.
 
-É importante destacar que, o product owner é uma pessoa, não um comitê. O product owner pode representar os desejos de um comitê por meio de histórias de usuários, mas só quem pode fazer alterações ou mudar a prioridade de itens no backlog do produto é o próprio product owner.
+É importante destacar que o product owner é uma pessoa, não um comitê. O product owner pode representar os desejos de um comitê por meio de histórias de usuários, mas só quem pode fazer alterações ou mudar a prioridade de itens no backlog do produto é o próprio product owner.
 
-Ainda segundo o Scrum Guide, para que o product owner possa ter sucesso, toda a empresa deve respeitar suas decisões. As decisões do product owner são visíveis no conteúdo e na ordem do backlog do produto.
-
-A forma como isso é feito pode variar de empresa para empresa, time scrum etc.
+Ainda segundo o Scrum Guide, para que o product owner possa ter sucesso, toda a empresa deve respeitar suas decisões. As decisões do product owner são visíveis no conteúdo e na ordem do backlog do produto. A forma como isso é feito pode variar de empresa para empresa, time scrum etc.
 
 ## Desenvolva produtos com mindset ágil
 
