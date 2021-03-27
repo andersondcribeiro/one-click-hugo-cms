@@ -61,6 +61,22 @@
 
 </footer>
 
+<body>
+	
+	<script src="https://webreader.naturalreaders.com/nr-webreader.js" defer></script>
+<script>
+    window.addEventListener("DOMContentLoaded", function() {
+        if (typeof NRWebReader != 'undefined') {
+            window['NRWebReader'] = new NRWebReader({
+            widget_id: "osf7sdanla"  // DO NOT REMOVE. This is your widget ID for your WebReader
+            });
+        }
+    }); 
+</script>
+
+	
+</body>
+
 {{ partial "svg" . }}
 
 <script src="/app.js"></script>
@@ -72,20 +88,6 @@ _iub.csConfiguration = {"gdprAppliesGlobally":false,"consentOnContinuedBrowsing"
 </script>
 <script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
 <!-- fim da politica de privacidade -->
-
-
-
-<script src="https://webreader.naturalreaders.com/nr-webreader.js" defer></script>
-<script>
-    window.addEventListener("DOMContentLoaded", function() {
-        if (typeof NRWebReader != 'undefined') {
-            window['NRWebReader'] = new NRWebReader({
-            widget_id: "osf7sdanla"  // DO NOT REMOVE. This is your widget ID for your WebReader
-            });
-        }
-    }); 
-</script>
-
 
 
 <!--Start of Tawk.to Script-->
