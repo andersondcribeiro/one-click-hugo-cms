@@ -10,7 +10,16 @@
     smartlook('init', '25305ca80520bb936e981e4d8a9f7377db022b4a');
 </script>
   
-   
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-269HYFB39H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-269HYFB39H');
+</script>
+
 </head>
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
